@@ -253,12 +253,14 @@
       }
     }
 
+
     // Position Lightbox
     this.$lightbox.css({
       position: 'fixed',
       top: this.options.positionFromTop+'px',
       left: '0px'
     }).fadeIn(this.options.fadeDuration);
+
     /*
     var top  = $window.scrollTop() + this.options.positionFromTop;
     var left = $window.scrollLeft();
