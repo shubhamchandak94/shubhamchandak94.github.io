@@ -1,0 +1,39 @@
+---
+layout: base
+---
+
+{% include header.html type="page" %}
+
+<style>
+  .myimg{
+    width:250px;
+    height:250px;
+    object-fit:cover;
+    padding-bottom: 5px;
+  }
+</style>
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      {{ content }}
+      <br/>
+      {% for image in page.images %}
+          <a href="{{ page.imagefolder }}/{{ image.name }}" data-lightbox="gal1" data-title="{{ image.caption }}">
+            <img src="{{ page.imagefolder }}/{{ image.name }}" class="myimg" alt="{{ image.caption }}"></img>
+          </a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" src="/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
+<script>
+    lightbox.option({
+      'resizeDuration': 200,
+      'fadeDuration': 200,
+      'imageFadeDuration': 200,
+      'disableScrolling': true
+    })
+</script>
