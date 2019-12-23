@@ -45,22 +45,4 @@ images:
 <!---
 Put content to be put at top of gallery below this comment block.
 --->
-Below are some photos of me with my friends and family. Some pics of my biking/travel in Bay Area/other places are at [this link](/biking/).
-<style>
-    .youtube-videos {
-        position: relative;
-        padding-bottom: 56%; // This is the aspect ratio
-        height: 0;
-        overflow: hidden;
-    }
-    .youtube-videos iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100% !important;
-        height: 100% !important;
-    }
-</style>
-<div class="youtube-videos">
-<iframe width="426" height="240" src="https://www.youtube.com/embed/89VVclSBiic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Here are some photos of me with my friends and family.
