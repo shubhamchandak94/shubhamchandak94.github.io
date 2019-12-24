@@ -21,6 +21,7 @@ description: My website built using Jekyll
 # List of links in the navigation bar
 navbar-links:
   CV: "cv.pdf"
+  Publications: "publications"
   Gallery:
     - Photos: "photos"
     - Videos: "videos"
@@ -48,7 +49,7 @@ hover-col: "#2e2d29"
 footer-col: "#0098db"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#2e2d29"
-
+# also added navbar-inverse to nav.html to make hamburger button white on dark background
 
 # navbar-col: "#dad7cb"
 # navbar-text-col: "#820000"
