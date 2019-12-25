@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Publications
 ---
 
 _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1u0f5QAAAAJ).**_
@@ -78,15 +79,15 @@ Thereof**
   _[ISMB/ECCB 2019](https://www.iscb.org/ismbeccb2019), Basel, July 21-25, 2019._  
   [[slides](/slides/ismb_slides_dna_storage.pdf)] [[video](https://www.youtube.com/watch?v=7ki2QcSg59c)]
 
-- **SPRING: A next-generation compressor for FASTQ data.** _Invited_   
+- **SPRING: A next-generation compressor for FASTQ data.** _(Invited)_   
   _[ISMB/ECCB 2019](https://www.iscb.org/ismbeccb2019), Basel, July 21-25, 2019._  
   [[slides](/slides/ismb_slides_spring.pdf)] [[video](https://www.youtube.com/watch?v=OCngQbmyKow)]
 
-- **SPRING: A next-generation compressor for FASTQ data.** _Invited_  
+- **SPRING: A next-generation compressor for FASTQ data.** _(Invited)_  
   _[Stanford Compression Workshop 2019](https://compression.stanford.edu/2019-stanford-compression-workshop), Stanford, February 15, 2019._  
   [[slides](/slides/scw2019_spring.pdf)] [[video](https://www.youtube.com/watch?v=b_9HJ5zrmUg)]
 
-- **SPRING: A practical compressor for short-read FASTQ data.** _Invited_  
+- **SPRING: A practical compressor for short-read FASTQ data.** _(Invited)_  
   _56th Annual Allerton Conference on Communication, Control, and Computing, Urbana, IL, October 3-5, 2018._  
   [[slides](/slides/allerton_slides_spring.pdf)]
 

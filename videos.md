@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Videos
 ---
 <style>
     .youtube-videos {

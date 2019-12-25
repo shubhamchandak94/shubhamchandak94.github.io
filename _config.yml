@@ -22,6 +22,9 @@ description: My website built using Jekyll
 navbar-links:
   CV: "cv.pdf"
   Publications: "publications"
+  Projects:
+    - Research projects: "research_projects"
+    - Course projects: "course_projects"
   Gallery:
     - Photos: "photos"
     - Videos: "videos"

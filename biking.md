@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Photos
+title: Biking
 imagefolder: /img/biking
 images:
 - name: poplar.jpg
@@ -36,9 +36,9 @@ images:
 - name: sharon_park_1.jpg
   caption: Sharon Park, October 2017
 - name: portolaroad.jpg
-  caption: October 2017
+  caption: Wunderlich County Park, October 2017
 - name: canadaroad.jpg
-  caption: September 2017
+  caption: Cañada Road trail, September 2017
 - name: pearson-arastradero_preserve.jpg
   caption: Pearson-Arastradero Preserve, August 2017
 ---
