@@ -49,7 +49,7 @@ Thereof**
   [_patent application filed_]
 
 - **Embedded Deep Compression for Time Series Data**  
-  Wen C., Wang L., Aparicio J., Chandak S., Tatwawadi K., & Weissman J.  
+  Wen C., Wang L., Aparicio J., Chandak S., Tatwawadi K., & Weissman T.  
   [_patent application filed_]
 
 - **Detuning for a resonant wireless power transfer system including cryptography**  
@@ -65,7 +65,7 @@ Thereof**
   [[bioRxiv](https://www.biorxiv.org/content/10.1101/2019.12.20.871939v1)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage)]
 
 - **LFZip: Lossy compression of multivariate floating-point time series data via improved prediction.**  
-  Chandak S., Tatwawadi K., Wen C., Wang L., Aparicio J., & Weissman J.  
+  Chandak S., Tatwawadi K., Wen C., Wang L., Aparicio J., & Weissman T.  
   _Submitted to [DCC 2020](https://www.cs.brandeis.edu/~dcc/Call.html)_  
   [[arXiv](https://arxiv.org/abs/1911.00208)] [[GitHub](https://github.com/shubhamchandak94/LFZip)]
 
