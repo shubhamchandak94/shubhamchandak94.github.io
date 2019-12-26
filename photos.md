@@ -20,7 +20,7 @@ images:
 - name: commencement.jpg
   caption: Stanford Commencement 2018 (with Prof. Stephen Boyd)
 - name: amarkantak.jpg
-  caption: Amarkantak - Kapildhara waterfall, 2017 (with Siddharth)
+  caption: Amarkantak - Kapildhara waterfall, 2017 (with my brother Siddharth)
 - name: sanfrancisco.png
   caption: Golden Gate Bridge, San Francisco, 2016 (with Surya)
 - name: portblair.png
@@ -28,7 +28,7 @@ images:
 - name: dubai.jpg
   caption: Dubai Desert Safari, 2016  
 - name: convo.jpg
-  caption: IIT Bombay Convocation, 2016 (with Prof. Devang Khakhar and Dr. Rajendra Singh)
+  caption: IIT Bombay Convocation, 2016 (with Dr. Rajendra Singh and IIT Bombay director Prof. Devang Khakhar)
 - name: lonar.jpg
   caption: Lonar Crater Lake, 2015 (with my mother and brother)
 - name: mit_group_may_2015.jpg
@@ -41,6 +41,8 @@ images:
   caption: Murud-Janjira Fort, Near Mumbai, 2013 (with Goutam and Yash)
 - name: icho.jpg
   caption: International Chemistry Olympiad, 2012, Washington DC (with Manav, Nimit and Diptarka)
+- name: fiitjee.jpg
+  caption: With Abhishek Pandey Sir, Director FIITJEE Bhopal, May 2012
 ---
 <!---
 Put content to be put at top of gallery below this comment block.

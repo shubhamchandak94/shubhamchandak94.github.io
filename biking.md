@@ -9,7 +9,9 @@ images:
   caption: The Ritz Carlton Half Moon Bay, October 2019
 - name: old_la_honda.jpg
   caption: Old La Honda road, October 2019
-- name: spotpond.jpg
+- name: niagara.jpeg
+  caption: Niagara Falls, August 2019
+- name: spotpond.jpeg
   caption: Spot Pond (Stoneham, MA), August 2019
 - name: sharon_park_2.jpeg
   caption: Sharon Park, May 2019
