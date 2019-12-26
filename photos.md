@@ -25,8 +25,8 @@ images:
   caption: Golden Gate Bridge, San Francisco, 2016 (with Surya)
 - name: portblair.png
   caption: Port Blair, 2016 (with my parents and brother)
-- name: dubai.jpg
-  caption: Dubai Desert Safari, 2016  
+- name: convo1.jpg
+  caption: Receiving Institute Silver Medal at IIT Bombay convocation from Mr. Girish Gaitonde and Prof. Abhay Karandikar
 - name: convo.jpg
   caption: IIT Bombay Convocation, 2016 (with Dr. Rajendra Singh and IIT Bombay director Prof. Devang Khakhar)
 - name: lonar.jpg
