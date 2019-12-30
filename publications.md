@@ -30,12 +30,12 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - **Towards improved lossy image compression: Human image reconstruction with public-domain images.**  
   Bhown, A., Mukherjee, S., Yang, S., Chandak, S., Fischer-Hwang, I., Tatwawadi, K., Fan, J., & Weissman, T.  
   _2019 Data Compression Conference (DCC), Snowbird, UT, USA, 2019, pp. 558-558._  
-  [[IEEE](https://ieeexplore.ieee.org/abstract/document/8712697)] [[arXiv](https://arxiv.org/abs/1810.11137)] [[website](https://compression.stanford.edu/human-compression)] [[press](https://news.stanford.edu/2019/03/25/humans-compress-images-better-algorithms/)]
+  [[IEEE](https://ieeexplore.ieee.org/abstract/document/8712697)] [[arXiv](https://arxiv.org/abs/1810.11137)] [[website](https://compression.stanford.edu/human-compression)] [[poster](/slides/haac_poster.pdf)] [[press](https://news.stanford.edu/2019/03/25/humans-compress-images-better-algorithms/)]
 
 - **DeepZip: Lossless Data Compression using Recurrent Neural Networks.**  
   Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.  
   _2019 Data Compression Conference (DCC), Snowbird, UT, USA, 2019, pp. 575-575._  
-  [[IEEE](https://ieeexplore.ieee.org/abstract/document/8712697)] [[arXiv](https://arxiv.org/abs/1811.08162)] [[GitHub](https://github.com/mohit1997/DeepZip)]
+  [[IEEE](https://ieeexplore.ieee.org/abstract/document/8712697)] [[arXiv](https://arxiv.org/abs/1811.08162)] [[poster](/slides/DeepZip_poster.pdf)] [[GitHub](https://github.com/mohit1997/DeepZip)]
 
 - **An Actively Detuned Wireless Power Receiver With Public Key Cryptographic Authentication and Dynamic Power Allocation.**  
   Desai, N.V., Juvekar, C., Chandak, S., & Chandrakasan, A.P.  
