@@ -5,6 +5,11 @@ title: Research Projects
 
 Here are some of the research projects I have participated in over the years, please check out the publications page for the corresponding papers.
 
+- [Error correction for DNA storage](#dna_storage)
+- [FASTQ compression](#fastq)
+- [Time series data compression](#lfzip)
+- <a name="dna_storage"></a>[Other projects](#other)
+<p></p>
 - **Error correction for DNA storage** _(Ph.D. research)_  
   Stanford University  
 
@@ -14,7 +19,7 @@ Here are some of the research projects I have participated in over the years, pl
 
   - We studied the tradeoff between the writing and reading costs involved in DNA-based storage and propose a practical [scheme](https://github.com/shubhamchandak94/LDPC_DNA_storage) based on LDPC codes to achieve an improved tradeoff between these quantities.
   - For nanopore sequencing based DNA storage, we proposed a novel [approach](https://github.com/shubhamchandak94/nanopore_dna_storage) which overcomes the high error rates in nanopore sequencing by exploiting the soft information available in the raw signals.
-  - Check out my [talk](https://www.youtube.com/watch?v=7ki2QcSg59c) at ISMB/ECCB 2019 to get a high-level overview of this work.
+  - Check out my [talk](https://www.youtube.com/watch?v=7ki2QcSg59c) at ISMB/ECCB 2019 to get a high-level overview of this work. <a name="fastq"></a>
 
 - **FASTQ compression** _(Ph.D. research)_  
   Stanford University  
@@ -27,7 +32,7 @@ Here are some of the research projects I have participated in over the years, pl
   - Improved upon HARC to develop [SPRING](https://github.com/shubhamchandak94/SPRING/), a practical tool to compress single and paired-end FASTQ files, supporting a variety of modes and features.
   - Work published in _Bioinformatics_.
   - Check out my [talk](https://www.youtube.com/watch?v=OCngQbmyKow) at ISMB/ECCB 2019 to get an overview of this work.
-  - Currently working to integrate parts of SPRING with [genie](https://github.com/mitogen/genie), an open-source [MPEG-G](https://mpeg-g.org/) codec.
+  - Currently working to integrate parts of SPRING with [genie](https://github.com/mitogen/genie), an open-source [MPEG-G](https://mpeg-g.org/) codec.<a name="lfzip"></a>
 
 - **Time series data compression** _(Ph.D. research)_  
   Stanford University (in collaboration with Siemens)
@@ -35,7 +40,7 @@ Here are some of the research projects I have participated in over the years, pl
   <img src="/img/research/lfzip.png" alt="Genome sequencing" max-height="386" max-width="2480" width="100%">
 
   Time series data compression is increasing becoming critical with the large volumes of data produced by IoT devices and sensors. Lossy compression is often appropriate for such datasets due to the presence of noise and can lead to huge compression gains without sacrificing accuracy of downstream analysis.  
-  We developed [LFZip](https://github.com/shubhamchandak94/LFZip), an error-bounded lossy compressor for multivariate floating-point time series data based on  the prediction quantization-entropy coder framework. LFZip benefits from improved prediction using linear models and neural networks and outperforms the existing state-of-the-art error-bounded lossy compressors on several time series datasets.
+  We developed [LFZip](https://github.com/shubhamchandak94/LFZip), an error-bounded lossy compressor for multivariate floating-point time series data based on  the prediction quantization-entropy coder framework. LFZip benefits from improved prediction using linear models and neural networks and outperforms the existing state-of-the-art error-bounded lossy compressors on several time series datasets. <a name="other"></a>
 
 
 - **Applications of Gröbner Basis** _(B. Tech. Project)_  

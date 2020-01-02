@@ -4,6 +4,12 @@ title: Publications
 ---
 
 _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1u0f5QAAAAJ).**_
+- [Journal](#journal)
+- [Conference](#conference)
+- [Patents](#patents)
+- [Preprints](#preprints)
+- [Talks](#talks)
+- [Posters](#posters)<a name="journal"></a>
 
 ### Journal
 - **SPRING: a next-generation compressor for FASTQ data.**  
@@ -19,7 +25,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - **An Actively Detuned Wireless Power Receiver With Public Key Cryptographic Authentication and Dynamic Power Allocation.**  
   Desai, N.V., Juvekar, C., Chandak, S., & Chandrakasan, A.P.  
   _IEEE Journal of Solid-State Circuits, vol. 53, no. 1, pp. 236-246, Jan. 2018._  
-  [[IEEE](https://ieeexplore.ieee.org/abstract/document/8027197)] [[press](http://news.mit.edu/2017/secure-wireless-chargers-0209)]
+  [[IEEE](https://ieeexplore.ieee.org/abstract/document/8027197)] [[press](http://news.mit.edu/2017/secure-wireless-chargers-0209)]<a name="conference"></a>
 
 ### Conference
 - **Improved read/write cost tradeoff in DNA-based data storage using LDPC codes.**  
@@ -40,7 +46,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - **An Actively Detuned Wireless Power Receiver With Public Key Cryptographic Authentication and Dynamic Power Allocation.**  
   Desai, N.V., Juvekar, C., Chandak, S., & Chandrakasan, A.P.  
   _2017 IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, 2017, pp. 366-367._  
-  [[IEEE](https://ieeexplore.ieee.org/abstract/document/7870413)] [[press](http://news.mit.edu/2017/secure-wireless-chargers-0209)]
+  [[IEEE](https://ieeexplore.ieee.org/abstract/document/7870413)] [[press](http://news.mit.edu/2017/secure-wireless-chargers-0209)]<a name="patents"></a>
 
 ### Patents
 - **Systems and Methods for Compressing Genetic Sequencing Data and Uses
@@ -54,7 +60,7 @@ Thereof**
 
 - **Detuning for a resonant wireless power transfer system including cryptography**  
   Chandrakasan, A.P., Desai, N.V., Juvekar, C., & Chandak, S.  
-  [[patent application](https://patents.google.com/patent/US20190245385A1/en)]
+  [[patent application](https://patents.google.com/patent/US20190245385A1/en)]<a name="preprints"></a>
 
 
 
@@ -72,7 +78,7 @@ Thereof**
 - **DZip: improved general-purpose lossless compression based on novel neural network modeling.**  
   Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.   
   _Submitted to [DCC 2020](https://www.cs.brandeis.edu/~dcc/Call.html)_  
-  [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/DZip)]
+  [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/DZip)]<a name="talks"></a>
 
 ### Talks
 - **Error correcting codes for DNA based data storage.**  
@@ -89,7 +95,7 @@ Thereof**
 
 - **SPRING: A practical compressor for short-read FASTQ data.** _(Invited)_  
   _56th Annual Allerton Conference on Communication, Control, and Computing, Urbana, IL, October 3-5, 2018._  
-  [[slides](/slides/allerton_slides_spring.pdf)]
+  [[slides](/slides/allerton_slides_spring.pdf)]<a name="posters"></a>
 
 ### Posters
 - **Error correcting codes for DNA based data storage.**  
