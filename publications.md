@@ -2,14 +2,13 @@
 layout: page
 title: Publications
 ---
-
 _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1u0f5QAAAAJ).**_
 - [Journal](#journal)
 - [Conference](#conference)
 - [Patents](#patents)
 - [Preprints](#preprints)
 - [Talks](#talks)
-- [Posters](#posters)<a name="journal"></a>
+- [Posters](#posters)<a id="journal"></a>
 
 ### Journal
 - **SPRING: a next-generation compressor for FASTQ data.**  
@@ -25,8 +24,9 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - **An Actively Detuned Wireless Power Receiver With Public Key Cryptographic Authentication and Dynamic Power Allocation.**  
   Desai, N.V., Juvekar, C., Chandak, S., & Chandrakasan, A.P.  
   _IEEE Journal of Solid-State Circuits, vol. 53, no. 1, pp. 236-246, Jan. 2018._  
-  [[IEEE](https://ieeexplore.ieee.org/abstract/document/8027197)] [[press](http://news.mit.edu/2017/secure-wireless-chargers-0209)]<a name="conference"></a>
+  [[IEEE](https://ieeexplore.ieee.org/abstract/document/8027197)] [[press](http://news.mit.edu/2017/secure-wireless-chargers-0209)]
 
+<a id="conference"></a>[[Back to top](#top_anchor_)]
 ### Conference
 - **Improved read/write cost tradeoff in DNA-based data storage using LDPC codes.**  
   Chandak, S., Tatwawadi, K., Lau, B., Mardia, J., Kubit, M., Neu, J., Griffin, P., Wootters, M., Weissman, T., & Ji, H.  
@@ -46,8 +46,9 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - **An Actively Detuned Wireless Power Receiver With Public Key Cryptographic Authentication and Dynamic Power Allocation.**  
   Desai, N.V., Juvekar, C., Chandak, S., & Chandrakasan, A.P.  
   _2017 IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, CA, 2017, pp. 366-367._  
-  [[IEEE](https://ieeexplore.ieee.org/abstract/document/7870413)] [[press](http://news.mit.edu/2017/secure-wireless-chargers-0209)]<a name="patents"></a>
+  [[IEEE](https://ieeexplore.ieee.org/abstract/document/7870413)] [[press](http://news.mit.edu/2017/secure-wireless-chargers-0209)]
 
+<a id="patents"></a>[[Back to top](#top_anchor_)]
 ### Patents
 - **Systems and Methods for Compressing Genetic Sequencing Data and Uses
 Thereof**  
@@ -60,9 +61,9 @@ Thereof**
 
 - **Detuning for a resonant wireless power transfer system including cryptography**  
   Chandrakasan, A.P., Desai, N.V., Juvekar, C., & Chandak, S.  
-  [[patent application](https://patents.google.com/patent/US20190245385A1/en)]<a name="preprints"></a>
+  [[patent application](https://patents.google.com/patent/US20190245385A1/en)]
 
-
+<a id="preprints"></a>[[Back to top](#top_anchor_)]
 
 ### Preprints
 - **Overcoming high nanopore basecaller error rates for DNA storage via basecaller-decoder integration and convolutional codes.**  
@@ -78,7 +79,9 @@ Thereof**
 - **DZip: improved general-purpose lossless compression based on novel neural network modeling.**  
   Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.   
   _Submitted to [DCC 2020](https://www.cs.brandeis.edu/~dcc/Call.html)_  
-  [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/DZip)]<a name="talks"></a>
+  [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/DZip)
+
+]<a id="talks"></a>[[Back to top](#top_anchor_)]
 
 ### Talks
 - **Error correcting codes for DNA based data storage.**  
@@ -95,7 +98,9 @@ Thereof**
 
 - **SPRING: A practical compressor for short-read FASTQ data.** _(Invited)_  
   _56th Annual Allerton Conference on Communication, Control, and Computing, Urbana, IL, October 3-5, 2018._  
-  [[slides](/slides/allerton_slides_spring.pdf)]<a name="posters"></a>
+  [[slides](/slides/allerton_slides_spring.pdf)]
+
+<a id="posters"></a>[[Back to top](#top_anchor_)]
 
 ### Posters
 - **Error correcting codes for DNA based data storage.**  
@@ -108,3 +113,5 @@ Thereof**
 
 - **Compression of genomic sequencing reads with and without preserving the order.**  
   _2017 [Biomedical Computation at Stanford Symposium](http://bcats.stanford.edu/html/home.html), Stanford University, April 10th, 2017._  
+
+[[Back to top](#top_anchor_)]

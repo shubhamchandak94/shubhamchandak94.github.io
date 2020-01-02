@@ -14,6 +14,7 @@ Here are some of the course projects I have done while in Stanford.
 
   [[report](/reports/stabilizer_code_report.pdf)] [[code](https://github.com/shubhamchandak94/stabilizer_code/)]
 
+[[Back to top](#top_anchor_)]
 - **Codes for DNA storage**  
   EE 388: Modern Coding Theory  
   Spring 2017-18  
@@ -26,6 +27,8 @@ Here are some of the course projects I have done while in Stanford.
 
   [[report](/reports/dna-storage-report_6_15_18.pdf)] [[slides](/slides/EE388_Shubham_Chandak.pptx)] [[code](https://github.com/shubhamchandak94/dna_storage/tree/e1185235b558bb36680f4a1cc3ec9e3dcbf7d4f8)]
 
+[[Back to top](#top_anchor_)]
+
 - **Understanding the Amazon Rainforest from Space using CNNs**  
   CS 231N: Convolutional Neural Networks for Visual Recognition  
   Spring 2016-17  
@@ -36,3 +39,5 @@ Here are some of the course projects I have done while in Stanford.
   - Received Bronze medal from Kaggle for getting leaderboard rank of 67 among 938 teams.
 
   [[report](/reports/cs231n_report.pdf)] [[poster](/slides/cs231n_poster.pdf)] [[code](https://github.com/shubhamchandak94/cs231nproject)]
+
+[[Back to top](#top_anchor_)]

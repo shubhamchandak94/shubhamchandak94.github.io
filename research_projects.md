@@ -8,7 +8,7 @@ Here are some of the research projects I have participated in over the years, pl
 - [Error correction for DNA storage](#dna_storage)
 - [FASTQ compression](#fastq)
 - [Time series data compression](#lfzip)
-- <a name="dna_storage"></a>[Other projects](#other)
+- <a id="dna_storage"></a>[Other projects](#other)
 <p></p>
 - **Error correction for DNA storage** _(Ph.D. research)_  
   Stanford University  
@@ -19,8 +19,9 @@ Here are some of the research projects I have participated in over the years, pl
 
   - We studied the tradeoff between the writing and reading costs involved in DNA-based storage and propose a practical [scheme](https://github.com/shubhamchandak94/LDPC_DNA_storage) based on LDPC codes to achieve an improved tradeoff between these quantities.
   - For nanopore sequencing based DNA storage, we proposed a novel [approach](https://github.com/shubhamchandak94/nanopore_dna_storage) which overcomes the high error rates in nanopore sequencing by exploiting the soft information available in the raw signals.
-  - Check out my [talk](https://www.youtube.com/watch?v=7ki2QcSg59c) at ISMB/ECCB 2019 to get a high-level overview of this work. <a name="fastq"></a>
+  - Check out my [talk](https://www.youtube.com/watch?v=7ki2QcSg59c) at ISMB/ECCB 2019 to get a high-level overview of this work.
 
+<a id="fastq"></a>[[Back to top](#top_anchor_)]
 - **FASTQ compression** _(Ph.D. research)_  
   Stanford University  
 
@@ -32,7 +33,9 @@ Here are some of the research projects I have participated in over the years, pl
   - Improved upon HARC to develop [SPRING](https://github.com/shubhamchandak94/SPRING/), a practical tool to compress single and paired-end FASTQ files, supporting a variety of modes and features.
   - Work published in _Bioinformatics_.
   - Check out my [talk](https://www.youtube.com/watch?v=OCngQbmyKow) at ISMB/ECCB 2019 to get an overview of this work.
-  - Currently working to integrate parts of SPRING with [genie](https://github.com/mitogen/genie), an open-source [MPEG-G](https://mpeg-g.org/) codec.<a name="lfzip"></a>
+  - Currently working to integrate parts of SPRING with [genie](https://github.com/mitogen/genie), an open-source [MPEG-G](https://mpeg-g.org/) codec.
+
+<a id="lfzip"></a>[[Back to top](#top_anchor_)]
 
 - **Time series data compression** _(Ph.D. research)_  
   Stanford University (in collaboration with Siemens)
@@ -40,8 +43,9 @@ Here are some of the research projects I have participated in over the years, pl
   <img src="/img/research/lfzip.png" alt="Genome sequencing" max-height="386" max-width="2480" width="100%">
 
   Time series data compression is increasing becoming critical with the large volumes of data produced by IoT devices and sensors. Lossy compression is often appropriate for such datasets due to the presence of noise and can lead to huge compression gains without sacrificing accuracy of downstream analysis.  
-  We developed [LFZip](https://github.com/shubhamchandak94/LFZip), an error-bounded lossy compressor for multivariate floating-point time series data based on  the prediction quantization-entropy coder framework. LFZip benefits from improved prediction using linear models and neural networks and outperforms the existing state-of-the-art error-bounded lossy compressors on several time series datasets. <a name="other"></a>
+  We developed [LFZip](https://github.com/shubhamchandak94/LFZip), an error-bounded lossy compressor for multivariate floating-point time series data based on  the prediction quantization-entropy coder framework. LFZip benefits from improved prediction using linear models and neural networks and outperforms the existing state-of-the-art error-bounded lossy compressors on several time series datasets.
 
+<a id="other"></a>[[Back to top](#top_anchor_)]
 
 - **Applications of Gröbner Basis** _(B. Tech. Project)_  
   August 2015 - May 2016  
@@ -56,6 +60,7 @@ Here are some of the research projects I have participated in over the years, pl
 
   [[report](/reports/btp2_report.pdf)]
 
+[[Back to top](#top_anchor_)]
 - **Elliptic Curve Cryptography for IoT** _(Summer internship)_  
   May 2015 - July 2015  
   Massachusetts Institute of Technology    
@@ -68,6 +73,8 @@ Here are some of the research projects I have participated in over the years, pl
   - Designed an integer to τ -adic converter which was absent from the existing low-area implementations, with only a marginal increase in area by reusing the registers and ALU.
   - Work published in _IEEE Journal of Solid-State Circuits_.
 
+[[Back to top](#top_anchor_)]
+
 - **Functional Electrical Stimulation - Numerical Analysis** _(Summer internship)_  
   May 2014 - July 2014  
   Oxford Brookes University, Oxford, UK      
@@ -79,6 +86,8 @@ Here are some of the research projects I have participated in over the years, pl
   - _Non-concentric Electrodes_: For square and other electrodes, a Finite Element model was solved using EIDORS software on MATLAB.
   - Compared various electrode configurations for safety and effectiveness using MATLAB simulations. See the results [here](/reports/brookes_simulations.pdf).
 
+[[Back to top](#top_anchor_)]
+
 - **Spiking Neural Networks**
   May 2013 - December 2013    
   IIT Bombay        
@@ -88,3 +97,5 @@ Here are some of the research projects I have participated in over the years, pl
 
   - Studied spiking neuron models as well as Artificial Neural Networks.  
   - Studied and implemented ReSuMe, a supervised learning technique for SNNs based on Spike Timing Dependent Plasticity (STDP), on MATLAB.
+
+[[Back to top](#top_anchor_)]
