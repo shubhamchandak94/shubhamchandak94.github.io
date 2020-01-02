@@ -79,9 +79,9 @@ Thereof**
 - **DZip: improved general-purpose lossless compression based on novel neural network modeling.**  
   Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.   
   _Submitted to [DCC 2020](https://www.cs.brandeis.edu/~dcc/Call.html)_  
-  [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/DZip)
+  [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/DZip)]
 
-]<a id="talks"></a>[[Back to top](#top_anchor_)]
+<a id="talks"></a>[[Back to top](#top_anchor_)]
 
 ### Talks
 - **Error correcting codes for DNA based data storage.**  
