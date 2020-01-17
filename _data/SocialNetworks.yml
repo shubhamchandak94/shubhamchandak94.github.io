@@ -16,6 +16,11 @@ github:
   baseURL: "https://github.com/"
   icon: "fa-github"
 
+googlescholar:
+  name: "Google Scholar"
+  baseURL: "https://scholar.google.com/"
+  icon: "fa-graduation-cap"
+
 twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
