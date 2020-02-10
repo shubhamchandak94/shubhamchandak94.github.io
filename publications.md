@@ -28,6 +28,21 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 
 <a id="conference"></a>[[Back to top](#top_anchor_)]
 ### Conference
+- **Overcoming high nanopore basecaller error rates for DNA storage via basecaller-decoder integration and convolutional codes.**  
+  Chandak, S., Neu, J., Tatwawadi, K., Mardia, J., Lau, B., Kubit, M., Hulett, R., Griffin, P., Wootters, M., Weissman, T., & Ji, H.  
+  _To appear at [ICASSP 2020](https://2020.ieeeicassp.org/)_  
+  [[bioRxiv](https://www.biorxiv.org/content/10.1101/2019.12.20.871939v1)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage)]
+
+- **LFZip: Lossy compression of multivariate floating-point time series data via improved prediction.**  
+  Chandak S., Tatwawadi K., Wen C., Wang L., Aparicio J., & Weissman T.  
+  _To appear at [DCC 2020](https://www.cs.brandeis.edu/~dcc/Call.html)_  
+  [[arXiv](https://arxiv.org/abs/1911.00208)] [[GitHub](https://github.com/shubhamchandak94/LFZip)]
+
+- **DZip: improved general-purpose lossless compression based on novel neural network modeling.**  
+  Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.   
+  _To appear at [DCC 2020](https://www.cs.brandeis.edu/~dcc/Call.html) (poster)_  
+  [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/DZip)]
+
 - **Improved read/write cost tradeoff in DNA-based data storage using LDPC codes.**  
   Chandak, S., Tatwawadi, K., Lau, B., Mardia, J., Kubit, M., Neu, J., Griffin, P., Wootters, M., Weissman, T., & Ji, H.  
   _2019 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton), Monticello, IL, USA, 2019, pp. 147-156._  
@@ -64,22 +79,10 @@ Thereof**
   [[patent application](https://patents.google.com/patent/US20190245385A1/en)]
 
 <a id="preprints"></a>[[Back to top](#top_anchor_)]
-
 ### Preprints
-- **Overcoming high nanopore basecaller error rates for DNA storage via basecaller-decoder integration and convolutional codes.**  
-  Chandak, S., Neu, J., Tatwawadi, K., Mardia, J., Lau, B., Kubit, M., Hulett, R., Griffin, P., Wootters, M., Weissman, T., & Ji, H.  
-  _Submitted to [ICASSP 2020](https://2020.ieeeicassp.org/)_  
-  [[bioRxiv](https://www.biorxiv.org/content/10.1101/2019.12.20.871939v1)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage)]
-
-- **LFZip: Lossy compression of multivariate floating-point time series data via improved prediction.**  
-  Chandak S., Tatwawadi K., Wen C., Wang L., Aparicio J., & Weissman T.  
-  _Submitted to [DCC 2020](https://www.cs.brandeis.edu/~dcc/Call.html)_  
-  [[arXiv](https://arxiv.org/abs/1911.00208)] [[GitHub](https://github.com/shubhamchandak94/LFZip)]
-
-- **DZip: improved general-purpose lossless compression based on novel neural network modeling.**  
-  Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.   
-  _Submitted to [DCC 2020](https://www.cs.brandeis.edu/~dcc/Call.html)_  
-  [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/DZip)]
+- **Tutorial on algebraic deletion correction codes.**  
+  Tatwawadi, K., & Chandak, S.  
+  [[arXiv](https://arxiv.org/abs/1906.07887)] [[GitHub](https://github.com/shubhamchandak94/VT_codes)]
 
 <a id="talks"></a>[[Back to top](#top_anchor_)]
 
