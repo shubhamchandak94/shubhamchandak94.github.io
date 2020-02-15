@@ -3,6 +3,10 @@ layout: gallery
 title: Biking
 imagefolder: /img/biking
 images:
+- name: dumbarton_2.jpeg
+  caption: Dumbarton Bridge, February 2020
+- name: sharon_park_3.jpeg
+  caption: Sharon Park, January 2020
 - name: poplar.jpg
   caption: Half Moon Bay - Poplar Beach, October 2019
 - name: ritz.jpg
