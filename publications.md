@@ -68,7 +68,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - **Systems and Methods for Compressing Genetic Sequencing Data and Uses
 Thereof**  
   Chandak, S., Tatwawadi, K., Ochoa, I., Hernaez, M., & Weissman, T.  
-  [_patent application filed_]
+  [[patent application](https://patents.google.com/patent/US20200058379A1/en)]
 
 - **Embedded Deep Compression for Time Series Data**  
   Wen C., Wang L., Aparicio J., Chandak S., Tatwawadi K., & Weissman T.  
