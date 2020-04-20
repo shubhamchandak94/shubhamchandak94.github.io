@@ -30,8 +30,8 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 ### Conference
 - **Overcoming high nanopore basecaller error rates for DNA storage via basecaller-decoder integration and convolutional codes.**  
   Chandak, S., Neu, J., Tatwawadi, K., Mardia, J., Lau, B., Kubit, M., Hulett, R., Griffin, P., Wootters, M., Weissman, T., & Ji, H.  
-  _To appear at [ICASSP 2020](https://2020.ieeeicassp.org/)_  
-  [[bioRxiv](https://www.biorxiv.org/content/10.1101/2019.12.20.871939v2)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage)]
+  _ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020, pp. 8822-8826._  
+  [[IEEE](https://ieeexplore.ieee.org/document/9053441)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/2019.12.20.871939v2)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage)] [[slides](/slides/ICASSP2020_slides.pdf)]
 
 - **LFZip: Lossy compression of multivariate floating-point time series data via improved prediction.**  
   Chandak S., Tatwawadi K., Wen C., Wang L., Aparicio J., & Weissman T.  
@@ -66,20 +66,25 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="patents"></a>[[Back to top](#top_anchor_)]
 ### Patents
 - **Systems and Methods for Compressing Genetic Sequencing Data and Uses
-Thereof**  
+Thereof.**  
   Chandak, S., Tatwawadi, K., Ochoa, I., Hernaez, M., & Weissman, T.  
   [[patent application](https://patents.google.com/patent/US20200058379A1/en)]
 
-- **Embedded Deep Compression for Time Series Data**  
-  Wen C., Wang L., Aparicio J., Chandak S., Tatwawadi K., & Weissman T.  
+- **Embedded Deep Compression for Time Series Data.**  
+  Wen, C., Wang, L., Aparicio, J., Chandak, S., Tatwawadi, K., & Weissman, T.  
   [_patent application filed_]
 
-- **Detuning for a resonant wireless power transfer system including cryptography**  
+- **Detuning for a resonant wireless power transfer system including cryptography.**  
   Chandrakasan, A.P., Desai, N.V., Juvekar, C., & Chandak, S.  
   [[patent application](https://patents.google.com/patent/US20190245385A1/en)]
 
 <a id="preprints"></a>[[Back to top](#top_anchor_)]
 ### Preprints
+- **Impact of lossy compression of nanopore raw signal data on basecall and consensus accuracy.**  
+  Chandak, S., Tatwawadi, K., Sridhar, S. & Weissman, T.  
+  _Submitted to [Briefings in Bioinformatics](https://academic.oup.com/bib/)_   
+  [[biorXiv](https://www.biorxiv.org/content/10.1101/2020.04.19.049262v1)] [[GitHub](https://github.com/shubhamchandak94/lossy_compression_evaluation)]
+
 - **Tutorial on algebraic deletion correction codes.**  
   Tatwawadi, K., & Chandak, S.  
   [[arXiv](https://arxiv.org/abs/1906.07887)] [[GitHub](https://github.com/shubhamchandak94/VT_codes)]
