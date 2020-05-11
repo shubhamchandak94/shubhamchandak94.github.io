@@ -31,7 +31,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - **Overcoming high nanopore basecaller error rates for DNA storage via basecaller-decoder integration and convolutional codes.**  
   Chandak, S., Neu, J., Tatwawadi, K., Mardia, J., Lau, B., Kubit, M., Hulett, R., Griffin, P., Wootters, M., Weissman, T., & Ji, H.  
   _ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020, pp. 8822-8826._  
-  [[IEEE](https://ieeexplore.ieee.org/document/9053441)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/2019.12.20.871939v2)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage)] [[slides](/slides/ICASSP2020_slides.pdf)]
+  [[IEEE](https://ieeexplore.ieee.org/document/9053441)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/2019.12.20.871939v2)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage)] [[slides](/slides/ICASSP2020_slides.pdf)] [[video](https://youtu.be/m-rtO6S_XGU)]
 
 - **LFZip: Lossy compression of multivariate floating-point time series data via improved prediction.**  
   Chandak S., Tatwawadi K., Wen C., Wang L., Aparicio J., & Weissman T.  
