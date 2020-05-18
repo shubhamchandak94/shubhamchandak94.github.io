@@ -82,7 +82,6 @@ Thereof.**
 ### Preprints
 - **Impact of lossy compression of nanopore raw signal data on basecall and consensus accuracy.**  
   Chandak, S., Tatwawadi, K., Sridhar, S. & Weissman, T.  
-  _Submitted to [Briefings in Bioinformatics](https://academic.oup.com/bib/)_   
   [[biorXiv](https://www.biorxiv.org/content/10.1101/2020.04.19.049262v1)] [[GitHub](https://github.com/shubhamchandak94/lossy_compression_evaluation)]
 
 - **Tutorial on algebraic deletion correction codes.**  
