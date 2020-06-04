@@ -35,13 +35,13 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 
 - **LFZip: Lossy compression of multivariate floating-point time series data via improved prediction.**  
   Chandak S., Tatwawadi K., Wen C., Wang L., Aparicio J., & Weissman T.  
-  _To appear at [DCC 2020](https://www.cs.brandeis.edu/~dcc/Call.html)_  
-  [[arXiv](https://arxiv.org/abs/1911.00208)] [[GitHub](https://github.com/shubhamchandak94/LFZip)] [[slides](/slides/LFZip_DCC2020_slides.pdf)] [[video](https://youtu.be/Z-W-6FoTIv4)]
+  _2020 Data Compression Conference (DCC), Snowbird, UT, USA, 2020, pp. 342-351._  
+  [[IEEE](https://ieeexplore.ieee.org/document/9105816)] [[arXiv](https://arxiv.org/abs/1911.00208)] [[GitHub](https://github.com/shubhamchandak94/LFZip)] [[slides](/slides/LFZip_DCC2020_slides.pdf)] [[video](https://youtu.be/Z-W-6FoTIv4)]
 
 - **DZip: improved general-purpose lossless compression based on novel neural network modeling.**  
   Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.   
-  _To appear at [DCC 2020](https://www.cs.brandeis.edu/~dcc/Call.html) (poster)_  
-  [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/DZip)] [[poster](/slides/DZip_DCC_Poster_2020.pdf)]
+  _2020 Data Compression Conference (DCC), Snowbird, UT, USA, 2020, pp. 372-372._  
+  [[IEEE](https://ieeexplore.ieee.org/document/9105846)] [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/DZip)] [[poster](/slides/DZip_DCC_Poster_2020.pdf)]
 
 - **Improved read/write cost tradeoff in DNA-based data storage using LDPC codes.**  
   Chandak, S., Tatwawadi, K., Lau, B., Mardia, J., Kubit, M., Neu, J., Griffin, P., Wootters, M., Weissman, T., & Ji, H.  
