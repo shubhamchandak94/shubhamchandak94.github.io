@@ -43,7 +43,7 @@ Here are some of the research projects I have participated in over the years, pl
   <img src="/img/research/lfzip.png" alt="Genome sequencing" max-height="386" max-width="2480" width="100%">
 
   Time series data compression is increasing becoming critical with the large volumes of data produced by IoT devices and sensors. Lossy compression is often appropriate for such datasets due to the presence of noise and can lead to huge compression gains without sacrificing accuracy of downstream analysis.  
-  We developed [LFZip](https://github.com/shubhamchandak94/LFZip), an error-bounded lossy compressor for multivariate floating-point time series data based on  the prediction quantization-entropy coder framework. LFZip benefits from improved prediction using linear models and neural networks and outperforms the existing state-of-the-art error-bounded lossy compressors on several time series datasets.
+  We developed [LFZip](https://github.com/shubhamchandak94/LFZip), an error-bounded lossy compressor for multivariate floating-point time series data based on  the prediction quantization-entropy coder framework. LFZip benefits from improved prediction using linear models and neural networks and outperforms the existing state-of-the-art error-bounded lossy compressors on several time series datasets. Check out my talk at DCC 2020 [here](https://www.youtube.com/watch?v=Z-W-6FoTIv4).
 
 <a id="other"></a>[[Back to top](#top_anchor_)]
 
