@@ -76,7 +76,7 @@ Thereof.**
 
 - **Detuning for a resonant wireless power transfer system including cryptography.**  
   Chandrakasan, A.P., Desai, N.V., Juvekar, C., & Chandak, S.  
-  [[patent](https://patents.google.com/patent/US20190245385A1/en)][[Tech brief](http://tlo.mit.edu/technologies/cryptography-system-wireless-charging-modules)]
+  [[patent](https://patents.google.com/patent/US20190245385A1/en)] [[tech brief](http://tlo.mit.edu/technologies/cryptography-system-wireless-charging-modules)]
 
 <a id="preprints"></a>[[Back to top](#top_anchor_)]
 ### Preprints
