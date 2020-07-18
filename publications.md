@@ -80,9 +80,10 @@ Thereof.**
 
 <a id="preprints"></a>[[Back to top](#top_anchor_)]
 ### Preprints
-- **Impact of lossy compression of nanopore raw signal data on basecall and consensus accuracy.**  
+- **Impact of lossy compression of nanopore raw signal data on basecalling and consensus accuracy.**  
   Chandak, S., Tatwawadi, K., Sridhar, S. & Weissman, T.  
-  [[biorXiv](https://www.biorxiv.org/content/10.1101/2020.04.19.049262v1)] [[GitHub](https://github.com/shubhamchandak94/lossy_compression_evaluation)]
+  _Submitted to Bioinformatics_    
+  [[biorXiv](https://www.biorxiv.org/content/10.1101/2020.04.19.049262v2)] [[GitHub](https://github.com/shubhamchandak94/lossy_compression_evaluation)]
 
 - **Tutorial on algebraic deletion correction codes.**  
   Tatwawadi, K., & Chandak, S.  
