@@ -3,6 +3,8 @@ layout: gallery
 title: Photos
 imagefolder: /img/photos
 images:
+- name: whipsnade.jpeg
+  caption: Whipsnade Zoo, UK, August 2020
 - name: rhinefalls.jpg
   caption: Rhine Falls, Switzerland, July 2019
 - name: arundelcastle.jpg
