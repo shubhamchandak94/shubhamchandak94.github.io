@@ -49,7 +49,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
   Kalmbach M., Klee E., Mainzer L., Müntefering F.,
   Naro D., Ochoa-Alvarez I., Ostermann J., Paridaens T., Ross C.,
   Voges J., Wieben E., Yang M., Weissman T. & Wiepert M.  
-  _International Conference for High Performance Computing, Networking, Storage and Analysis (SC19), p. (poster), Denver, CO (US), November 2019_  
+  _International Conference for High Performance Computing, Networking, Storage and Analysis (SC19), p. (poster), Denver, CO (US), November 2019._  
   [[SC19](https://sc19.supercomputing.org/proceedings/tech_poster/tech_poster_pages/rpost161.html)] [[poster](https://sc19.supercomputing.org/proceedings/tech_poster/poster_files/rpost161s2-file2.pdf)] [[summary](https://sc19.supercomputing.org/proceedings/tech_poster/poster_files/rpost161s2-file3.pdf)] [[GitHub](https://github.com/mitogen/genie)]
 
 - **Improved read/write cost tradeoff in DNA-based data storage using LDPC codes.**  
