@@ -43,6 +43,15 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
   _2020 Data Compression Conference (DCC), Snowbird, UT, USA, 2020, pp. 372-372._  
   [[IEEE](https://ieeexplore.ieee.org/document/9105846)] [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/DZip)] [[poster](/slides/DZip_DCC_Poster_2020.pdf)]
 
+- **Genie: an MPEG-G Conformant Software to Compress Genomic Data.**  
+  Bliss B., Allen J., Baheti S., Bockol M., Chandak S.,
+  Delgado J., Fostier J., Gelpi J., Hart S., Arrazola M., Hudson M.,
+  Kalmbach M., Klee E., Mainzer L., Müntefering F.,
+  Naro D., Ochoa-Alvarez I., Ostermann J., Paridaens T., Ross C.,
+  Voges J., Wieben E., Yang M., Weissman T. & Wiepert M.  
+  _International Conference for High Performance Computing, Networking, Storage and Analysis (SC19), p. (poster), Denver, CO (US), November 2019_  
+  [[SC19](https://sc19.supercomputing.org/proceedings/tech_poster/tech_poster_pages/rpost161.html)] [[poster](https://sc19.supercomputing.org/proceedings/tech_poster/poster_files/rpost161s2-file2.pdf)] [[summary](https://sc19.supercomputing.org/proceedings/tech_poster/poster_files/rpost161s2-file3.pdf)] [[GitHub](https://github.com/mitogen/genie)]
+
 - **Improved read/write cost tradeoff in DNA-based data storage using LDPC codes.**  
   Chandak, S., Tatwawadi, K., Lau, B., Mardia, J., Kubit, M., Neu, J., Griffin, P., Wootters, M., Weissman, T., & Ji, H.  
   _2019 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton), Monticello, IL, USA, 2019, pp. 147-156._  
