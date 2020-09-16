@@ -4,7 +4,7 @@
 
 layout: page
 ---
-<img alt="Shubham photo" src="/img/shubham_photo.png" style="width: 150px; height: 161px; hspace=" />
+<img alt="Shubham photo" src="/img/shubham_photo_9_16_20_cropped.jpeg" style="width: 200px; height: 190px; hspace=" />
 
 Hi! Welcome to my site. I am Shubham Chandak (शुभम चांडक), fourth year Ph.D. student in Electrical Engineering at Stanford. My Ph.D. advisor is Prof. [Tsachy Weissman](http://web.stanford.edu/~tsachy/). I completed my B.Tech. in Electrical Engineering at [IIT Bombay](http://www.iitb.ac.in/) (India) in 2016. I am interested in bioinformatics, data compression, DNA storage, information theory and machine learning.
 
