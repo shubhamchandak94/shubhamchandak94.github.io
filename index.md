@@ -6,7 +6,7 @@ layout: page
 ---
 <img alt="Shubham photo" src="/img/shubham_photo_9_16_20_cropped.jpeg" style="width: 200px; height: 190px; hspace=" />
 
-Hi! Welcome to my site. I am Shubham Chandak (शुभम चांडक), fourth year Ph.D. student in Electrical Engineering at Stanford. My Ph.D. advisor is Prof. [Tsachy Weissman](http://web.stanford.edu/~tsachy/). I completed my B.Tech. in Electrical Engineering at [IIT Bombay](http://www.iitb.ac.in/) (India) in 2016. I am interested in bioinformatics, data compression, DNA storage, information theory and machine learning.
+Hi! Welcome to my site. I am Shubham Chandak (शुभम चांडक), fifth year Ph.D. student in Electrical Engineering at Stanford. My Ph.D. advisor is Prof. [Tsachy Weissman](http://web.stanford.edu/~tsachy/). I completed my B.Tech. in Electrical Engineering at [IIT Bombay](http://www.iitb.ac.in/) (India) in 2016. I am interested in bioinformatics, data compression, DNA storage, information theory and machine learning.
 
 
 <a href="https://www.dhamma.org/"><img alt="Dhamma Cakka" src="/img/dhammacakka.gif" style="width: 40px; height: 60px;" /></a>
