@@ -65,7 +65,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - **DeepZip: Lossless Data Compression using Recurrent Neural Networks.**  
   Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.  
   _2019 Data Compression Conference (DCC), Snowbird, UT, USA, 2019, pp. 575-575._  
-  [[IEEE](https://ieeexplore.ieee.org/abstract/document/8712697)] [[arXiv](https://arxiv.org/abs/1811.08162)] [[poster](/slides/DeepZip_poster.pdf)] [[GitHub](https://github.com/mohit1997/DeepZip)]
+  [[IEEE](https://ieeexplore.ieee.org/abstract/document/8712659)] [[arXiv](https://arxiv.org/abs/1811.08162)] [[poster](/slides/DeepZip_poster.pdf)] [[GitHub](https://github.com/mohit1997/DeepZip)]
 
 - **An Actively Detuned Wireless Power Receiver With Public Key Cryptographic Authentication and Dynamic Power Allocation.**  
   Desai, N.V., Juvekar, C., Chandak, S., & Chandrakasan, A.P.  
