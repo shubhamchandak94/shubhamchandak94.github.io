@@ -81,7 +81,7 @@ Thereof.**
 
 - **Embedded Deep Compression for Time Series Data.**  
   Wen, C., Wang, L., Aparicio, J., Chandak, S., Tatwawadi, K., & Weissman, T.  
-  [_patent application filed_]
+  [[patent application](https://patents.google.com/patent/WO2020197526A1/en)]
 
 - **Detuning for a resonant wireless power transfer system including cryptography.**  
   Chandrakasan, A.P., Desai, N.V., Juvekar, C., & Chandak, S.  
