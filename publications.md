@@ -27,6 +27,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
   [[IEEE](https://ieeexplore.ieee.org/abstract/document/8027197)] [[press](http://news.mit.edu/2017/secure-wireless-chargers-0209)]
 
 <a id="conference"></a>[[Back to top](#top_anchor_)]
+
 ### Conference
 - **Overcoming high nanopore basecaller error rates for DNA storage via basecaller-decoder integration and convolutional codes.**  
   Chandak, S., Neu, J., Tatwawadi, K., Mardia, J., Lau, B., Kubit, M., Hulett, R., Griffin, P., Wootters, M., Weissman, T., & Ji, H.  
@@ -73,6 +74,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
   [[IEEE](https://ieeexplore.ieee.org/abstract/document/7870413)] [[press](http://news.mit.edu/2017/secure-wireless-chargers-0209)]
 
 <a id="patents"></a>[[Back to top](#top_anchor_)]
+
 ### Patents
 - **Systems and Methods for Compressing Genetic Sequencing Data and Uses
 Thereof.**  
@@ -88,6 +90,7 @@ Thereof.**
   [[patent](https://patents.google.com/patent/US20190245385A1/en)] [[tech brief](http://tlo.mit.edu/technologies/cryptography-system-wireless-charging-modules)]
 
 <a id="preprints"></a>[[Back to top](#top_anchor_)]
+
 ### Preprints
 - **Impact of lossy compression of nanopore raw signal data on basecalling and consensus accuracy.**  
   Chandak, S., Tatwawadi, K., Sridhar, S. & Weissman, T.  
