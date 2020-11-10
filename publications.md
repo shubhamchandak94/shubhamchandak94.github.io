@@ -92,6 +92,11 @@ Thereof.**
 <a id="preprints"></a>[[Back to top](#top_anchor_)]
 
 ### Preprints
+- **Reducing latency and bandwidth for video streaming using keypoint extraction and digital puppetry**  
+  Prabhakar, R., Chandak, S., Chiu, C., Liang, R., Nguyen, H., Tatwawadi, K., & Weissman, T.  
+  _Submitted to [DCC 2020](https://www.cs.brandeis.edu/~dcc/Call.html)_  
+  [[arXiv](https://arxiv.org/abs/2011.03800)] [[GitHub](https://github.com/shubhamchandak94/digital-puppetry/)] [[website](https://compression.stanford.edu/video-streaming-puppets)]
+
 - **Impact of lossy compression of nanopore raw signal data on basecalling and consensus accuracy.**  
   Chandak, S., Tatwawadi, K., Sridhar, S. & Weissman, T.  
   _Submitted to Bioinformatics_    
