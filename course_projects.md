@@ -5,8 +5,20 @@ title: Course Projects
 
 Here are some of the course projects I have done while in Stanford.
 
+- **Audience feedback and low latency video for live theater**  
+  [CS 349T/EE 192T](https://stagecast.stanford.edu/): Video and Audio Technology for Live Theater in the Age of COVID  
+  Autumn 2019-20  
+  Stanford University  
+
+  The course focused on developing technologies to enable live theater performance over the internet.
+  - Developed systems for emoji and audio-based audience feedback along with audiovisual effects in the video player.
+  - Researched low-latency video transmission using WebRTC to enable live audience interaction.
+
+  [[code](https://github.com/stanford-stagecast/audience/)]
+
+[[Back to top](#top_anchor_)]
 - **Implementation and analysis of stabilizer codes in pyQuil**  
-  CS 269Q: Quantum Computer Programming  
+  [CS 269Q](https://cs269q.stanford.edu/): Quantum Computer Programming  
   Spring 2018-19  
   Stanford University  
 
@@ -16,7 +28,7 @@ Here are some of the course projects I have done while in Stanford.
 
 [[Back to top](#top_anchor_)]
 - **Codes for DNA storage**  
-  EE 388: Modern Coding Theory  
+  [EE 388](https://web.stanford.edu/class/ee388/): Modern Coding Theory  
   Spring 2017-18  
   Stanford University  
 
@@ -30,7 +42,7 @@ Here are some of the course projects I have done while in Stanford.
 [[Back to top](#top_anchor_)]
 
 - **Understanding the Amazon Rainforest from Space using CNNs**  
-  CS 231N: Convolutional Neural Networks for Visual Recognition  
+  [CS 231N](http://cs231n.stanford.edu/): Convolutional Neural Networks for Visual Recognition  
   Spring 2016-17  
   Stanford University  
 

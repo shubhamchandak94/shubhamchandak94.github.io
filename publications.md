@@ -11,6 +11,11 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - [Posters](#posters)<a id="journal"></a>
 
 ### Journal
+- **Impact of lossy compression of nanopore raw signal data on basecalling and consensus accuracy.**  
+  Chandak, S., Tatwawadi, K., Sridhar, S. & Weissman, T.  
+  _To appear in Bioinformatics_    
+  [[biorXiv](https://www.biorxiv.org/content/10.1101/2020.04.19.049262v3)] [[GitHub](https://github.com/shubhamchandak94/lossy_compression_evaluation)]
+
 - **SPRING: a next-generation compressor for FASTQ data.**  
   Chandak, S., Tatwawadi, K., Ochoa, I., Hernaez, M., & Weissman, T.  
   _Bioinformatics, Volume 35, Issue 15, 1 August 2019, Pages 2674–2676_  
@@ -76,8 +81,11 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="patents"></a>[[Back to top](#top_anchor_)]
 
 ### Patents
-- **Systems and Methods for Compressing Genetic Sequencing Data and Uses
-Thereof.**  
+- **System and method for effective compression, representation and decompression of diverse tabulated data.**   
+  Chandak S., & Cheung Y.H.  
+  [_patent application filed_]
+
+- **Systems and Methods for Compressing Genetic Sequencing Data and Uses Thereof.**  
   Chandak, S., Tatwawadi, K., Ochoa, I., Hernaez, M., & Weissman, T.  
   [[patent application](https://patents.google.com/patent/US20200058379A1/en)]
 
@@ -94,13 +102,8 @@ Thereof.**
 ### Preprints
 - **Reducing latency and bandwidth for video streaming using keypoint extraction and digital puppetry**  
   Prabhakar, R., Chandak, S., Chiu, C., Liang, R., Nguyen, H., Tatwawadi, K., & Weissman, T.  
-  _Submitted to [DCC 2020](https://www.cs.brandeis.edu/~dcc/Call.html)_  
+  _Submitted to [DCC 2021](https://www.cs.brandeis.edu/~dcc/Call.html)_  
   [[arXiv](https://arxiv.org/abs/2011.03800)] [[GitHub](https://github.com/shubhamchandak94/digital-puppetry/)] [[website](https://compression.stanford.edu/video-streaming-puppets)]
-
-- **Impact of lossy compression of nanopore raw signal data on basecalling and consensus accuracy.**  
-  Chandak, S., Tatwawadi, K., Sridhar, S. & Weissman, T.  
-  _Submitted to Bioinformatics_    
-  [[biorXiv](https://www.biorxiv.org/content/10.1101/2020.04.19.049262v3)] [[GitHub](https://github.com/shubhamchandak94/lossy_compression_evaluation)]
 
 - **Tutorial on algebraic deletion correction codes.**  
   Tatwawadi, K., & Chandak, S.  
@@ -109,6 +112,10 @@ Thereof.**
 <a id="talks"></a>[[Back to top](#top_anchor_)]
 
 ### Talks
+- **Genomic data compression.** _(Invited)_   
+  _Roche, November 13, 2020._     
+  [[slides](/slides/roche_11_13_20.pdf)]  
+
 - **Error correcting codes for DNA based data storage.**  
   _[ISMB/ECCB 2019](https://www.iscb.org/ismbeccb2019), Basel, July 21-25, 2019._  
   [[slides](/slides/ismb_slides_dna_storage.pdf)] [[video](https://www.youtube.com/watch?v=7ki2QcSg59c)]
