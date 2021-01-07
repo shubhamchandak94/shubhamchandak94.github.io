@@ -13,8 +13,8 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 ### Journal
 - **Impact of lossy compression of nanopore raw signal data on basecalling and consensus accuracy.**  
   Chandak, S., Tatwawadi, K., Sridhar, S. & Weissman, T.  
-  _To appear in Bioinformatics_    
-  [[biorXiv](https://www.biorxiv.org/content/10.1101/2020.04.19.049262v3)] [[GitHub](https://github.com/shubhamchandak94/lossy_compression_evaluation)]
+  _Bioinformatics, 2020, btaa1017_    
+  [[Bioinformatics](https://doi.org/10.1093/bioinformatics/btaa1017)] [[biorXiv](https://www.biorxiv.org/content/10.1101/2020.04.19.049262v3)] [[GitHub](https://github.com/shubhamchandak94/lossy_compression_evaluation)]
 
 - **SPRING: a next-generation compressor for FASTQ data.**  
   Chandak, S., Tatwawadi, K., Ochoa, I., Hernaez, M., & Weissman, T.  
@@ -34,6 +34,16 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="conference"></a>[[Back to top](#top_anchor_)]
 
 ### Conference
+- **DZip: improved general-purpose lossless compression based on novel neural network modeling.**  
+  Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.   
+  _To appear at [DCC 2021](https://www.cs.brandeis.edu/~dcc/Call.html) (paper)_  
+  [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/Dzip-torch/)]
+
+- **Reducing latency and bandwidth for video streaming using keypoint extraction and digital puppetry.**  
+  Prabhakar, R., Chandak, S., Chiu, C., Liang, R., Nguyen, H., Tatwawadi, K., & Weissman, T.  
+  _To appear at [DCC 2021](https://www.cs.brandeis.edu/~dcc/Call.html) (poster)._  
+  [[arXiv](https://arxiv.org/abs/2011.03800)] [[GitHub](https://github.com/shubhamchandak94/digital-puppetry/)] [[website](https://compression.stanford.edu/video-streaming-puppets)]
+
 - **Overcoming high nanopore basecaller error rates for DNA storage via basecaller-decoder integration and convolutional codes.**  
   Chandak, S., Neu, J., Tatwawadi, K., Mardia, J., Lau, B., Kubit, M., Hulett, R., Griffin, P., Wootters, M., Weissman, T., & Ji, H.  
   _ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020, pp. 8822-8826._  
@@ -100,11 +110,6 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="preprints"></a>[[Back to top](#top_anchor_)]
 
 ### Preprints
-- **Reducing latency and bandwidth for video streaming using keypoint extraction and digital puppetry**  
-  Prabhakar, R., Chandak, S., Chiu, C., Liang, R., Nguyen, H., Tatwawadi, K., & Weissman, T.  
-  _Submitted to [DCC 2021](https://www.cs.brandeis.edu/~dcc/Call.html)_  
-  [[arXiv](https://arxiv.org/abs/2011.03800)] [[GitHub](https://github.com/shubhamchandak94/digital-puppetry/)] [[website](https://compression.stanford.edu/video-streaming-puppets)]
-
 - **Tutorial on algebraic deletion correction codes.**  
   Tatwawadi, K., & Chandak, S.  
   [[arXiv](https://arxiv.org/abs/1906.07887)] [[GitHub](https://github.com/shubhamchandak94/VT_codes)]
