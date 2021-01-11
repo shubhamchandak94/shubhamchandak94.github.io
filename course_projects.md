@@ -14,7 +14,7 @@ Here are some of the course projects I have done while in Stanford.
   - Developed systems for emoji and audio-based audience feedback along with audiovisual effects in the video player.
   - Researched low-latency video transmission using WebRTC to enable live audience interaction.
 
-  [[report](/reports/ee192t_report.pdf)] [[code](https://github.com/stanford-stagecast/audience/)]
+  [[report](/reports/ee192t_report.pdf)] [[code](https://github.com/stanford-stagecast/audience/)] [[news](https://stanforddaily.com/2020/12/21/interdisciplinary-fall-class-reimagines-virtual-performance/)]  
 
 [[Back to top](#top_anchor_)]
 - **Implementation and analysis of stabilizer codes in pyQuil**  
