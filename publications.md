@@ -110,6 +110,11 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="preprints"></a>[[Back to top](#top_anchor_)]
 
 ### Preprints
+- **On Coding for an Abstracted Nanopore Channel for DNA Storage.**  
+  Hulett, R., Chandak, S., & Wootters, M.   
+  _Submitted to [ISIT 2021](https://2021.ieee-isit.org/)_  
+  [[arXiv](https://arxiv.org/abs/2102.01839)]
+
 - **Tutorial on algebraic deletion correction codes.**  
   Tatwawadi, K., & Chandak, S.  
   [[arXiv](https://arxiv.org/abs/1906.07887)] [[GitHub](https://github.com/shubhamchandak94/VT_codes)]
