@@ -52,7 +52,9 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - **LFZip: Lossy compression of multivariate floating-point time series data via improved prediction.**  
   Chandak S., Tatwawadi K., Wen C., Wang L., Aparicio J., & Weissman T.  
   _2020 Data Compression Conference (DCC), Snowbird, UT, USA, 2020, pp. 342-351._  
-  [[IEEE](https://ieeexplore.ieee.org/document/9105816)] [[arXiv](https://arxiv.org/abs/1911.00208)] [[GitHub](https://github.com/shubhamchandak94/LFZip)] [[slides](/slides/LFZip_DCC2020_slides.pdf)] [[video](https://youtu.be/Z-W-6FoTIv4)]
+  [[IEEE](https://ieeexplore.ieee.org/document/9105816)] [[arXiv](https://arxiv.org/abs/1911.00208)] [[GitHub](https://github.com/shubhamchandak94/LFZip)] [[slides](/slides/LFZip_DCC2020_slides.pdf)] [[video](https://youtu.be/Z-W-6FoTIv4)]  
+  Awarded **Siemens Inventors of the year 2020 [[press](https://new.siemens.com/global/en/company/innovation/inventors/data-compression-for-industries.html)]**
+
 
 - **DZip: improved general-purpose lossless compression based on novel neural network modeling.**  
   Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.   
@@ -91,6 +93,10 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="patents"></a>[[Back to top](#top_anchor_)]
 
 ### Patents
+- **Improved quality value compression framework in aligned sequencing data based on novel contexts.**   
+  Chandak S., & Cheung Y.H.  
+  [_patent application filed_]
+
 - **System and method for effective compression, representation and decompression of diverse tabulated data.**   
   Chandak S., & Cheung Y.H.  
   [_patent application filed_]
@@ -101,7 +107,8 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 
 - **Embedded Deep Compression for Time Series Data.**  
   Wen, C., Wang, L., Aparicio, J., Chandak, S., Tatwawadi, K., & Weissman, T.  
-  [[patent application](https://patents.google.com/patent/WO2020197526A1/en)]
+  [[patent application](https://patents.google.com/patent/WO2020197526A1/en)]   
+  Awarded **Siemens Inventors of the year 2020 [[press](https://new.siemens.com/global/en/company/innovation/inventors/data-compression-for-industries.html)]**
 
 - **Detuning for a resonant wireless power transfer system including cryptography.**  
   Chandrakasan, A.P., Desai, N.V., Juvekar, C., & Chandak, S.  
