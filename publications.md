@@ -13,8 +13,8 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 ### Journal
 - **Impact of lossy compression of nanopore raw signal data on basecalling and consensus accuracy.**  
   Chandak, S., Tatwawadi, K., Sridhar, S. & Weissman, T.  
-  _Bioinformatics, 2020, btaa1017_    
-  [[Bioinformatics](https://doi.org/10.1093/bioinformatics/btaa1017)] [[biorXiv](https://www.biorxiv.org/content/10.1101/2020.04.19.049262v3)] [[GitHub](https://github.com/shubhamchandak94/lossy_compression_evaluation)]
+  _Bioinformatics, Volume 36, Issue 22-23, 1 December 2020, Pages 5313–5321_    
+  [[Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/36/22-23/5313/6039112)] [[biorXiv](https://www.biorxiv.org/content/10.1101/2020.04.19.049262v3)] [[GitHub](https://github.com/shubhamchandak94/lossy_compression_evaluation)]
 
 - **SPRING: a next-generation compressor for FASTQ data.**  
   Chandak, S., Tatwawadi, K., Ochoa, I., Hernaez, M., & Weissman, T.  
