@@ -129,6 +129,10 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="talks"></a>[[Back to top](#top_anchor_)]
 
 ### Talks and Panels
+- **Compression of raw genomic data.**  
+  _PhD defense, April 19, 2021._  
+  [[slides](/slides/phd_defense.pdf)] [[video](https://youtu.be/u3WXn6hjHXg)]
+
 - **Moderator for panel on DNA-based data storage.**  
   _[Stanford Compression Workshop 2021](https://compression.stanford.edu/stanford-compression-workshop-2021), February 26, 2021._  
   [[video](https://www.youtube.com/watch?v=Y9yXsIxpfC8&t=18s&ab_channel=StanfordResearchTalks)]
