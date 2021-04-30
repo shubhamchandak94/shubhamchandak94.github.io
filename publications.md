@@ -36,12 +36,12 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 ### Conference
 - **On Coding for an Abstracted Nanopore Channel for DNA Storage.**  
   Hulett, R., Chandak, S., & Wootters, M.   
-  _To appear at [ISIT 2021](https://2021.ieee-isit.org/)_  
+  _To appear at [ISIT 2021](https://2021.ieee-isit.org/)._  
   [[arXiv](https://arxiv.org/abs/2102.01839)]
 
 - **DZip: improved general-purpose lossless compression based on novel neural network modeling.**  
   Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.   
-  _To appear at [DCC 2021](https://www.cs.brandeis.edu/~dcc/Call.html) (paper)_  
+  _To appear at [DCC 2021](https://www.cs.brandeis.edu/~dcc/Call.html) (paper)._  
   [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/Dzip-torch/)] [[SigPort](https://sigport.org/documents/dzip-improved-general-purpose-lossless-compression-based-novel-neural-network-modeling-0)]
 
 - **Reducing latency and bandwidth for video streaming using keypoint extraction and digital puppetry.**  
