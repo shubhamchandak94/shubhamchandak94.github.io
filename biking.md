@@ -3,6 +3,8 @@ layout: gallery
 title: Biking
 imagefolder: /img/biking
 images:
+- name: edgewood.jpeg
+  caption: Edgewood Road, May 2021
 - name: dumbarton_2.jpeg
   caption: Dumbarton Bridge, February 2020
 - name: sharon_park_3.jpeg
