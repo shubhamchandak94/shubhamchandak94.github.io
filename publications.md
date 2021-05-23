@@ -104,7 +104,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 
 - **System and method for effective compression, representation and decompression of diverse tabulated data.**   
   Chandak S., & Cheung Y.H.  
-  [_patent application filed_]
+  [[patent application](https://patents.google.com/patent/WO2021074440A1/en)]
 
 - **Systems and Methods for Compressing Genetic Sequencing Data and Uses Thereof.**  
   Chandak, S., Tatwawadi, K., Ochoa, I., Hernaez, M., & Weissman, T.  

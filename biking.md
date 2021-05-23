@@ -3,6 +3,8 @@ layout: gallery
 title: Biking
 imagefolder: /img/biking
 images:
+- name: stevens_creek.jpeg
+  caption: Stevens Creek Reservoir, May 2021
 - name: edgewood.jpeg
   caption: Edgewood Road, May 2021
 - name: dumbarton_2.jpeg
