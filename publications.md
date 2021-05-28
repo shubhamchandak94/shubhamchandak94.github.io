@@ -41,13 +41,13 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 
 - **DZip: improved general-purpose lossless compression based on novel neural network modeling.**  
   Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.   
-  _To appear at [DCC 2021](https://www.cs.brandeis.edu/~dcc/Call.html) (paper)._  
-  [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/Dzip-torch/)] [[SigPort](https://sigport.org/documents/dzip-improved-general-purpose-lossless-compression-based-novel-neural-network-modeling-0)]
+  _2021 Data Compression Conference (DCC), Snowbird, UT, USA, 2021, pp. 153-162._  
+  [[IEEE](https://ieeexplore.ieee.org/document/9418692)] [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/Dzip-torch/)] [[SigPort](https://sigport.org/documents/dzip-improved-general-purpose-lossless-compression-based-novel-neural-network-modeling-0)]
 
 - **Reducing latency and bandwidth for video streaming using keypoint extraction and digital puppetry.**  
   Prabhakar, R., Chandak, S., Chiu, C., Liang, R., Nguyen, H., Tatwawadi, K., & Weissman, T.  
-  _To appear at [DCC 2021](https://www.cs.brandeis.edu/~dcc/Call.html) (poster)._  
-  [[arXiv](https://arxiv.org/abs/2011.03800)] [[GitHub](https://github.com/shubhamchandak94/digital-puppetry/)] [[website](https://compression.stanford.edu/video-streaming-puppets)] [[slides](https://sigport.org/sites/default/files/docs/Digital%20puppetry%20DCC_1.pdf)] [[video](https://www.youtube.com/watch?v=3WA0YjSqo0w&ab_channel=ShubhamChandak)] [[SigPort](https://sigport.org/documents/reducing-latency-and-bandwidth-video-streaming-using-keypoint-extraction-and-digital)]
+  _2021 Data Compression Conference (DCC), Snowbird, UT, USA, 2021, pp. 360-360._  
+  [[IEEE](https://ieeexplore.ieee.org/document/9418752)] [[arXiv](https://arxiv.org/abs/2011.03800)] [[GitHub](https://github.com/shubhamchandak94/digital-puppetry/)] [[website](https://compression.stanford.edu/video-streaming-puppets)] [[slides](https://sigport.org/sites/default/files/docs/Digital%20puppetry%20DCC_1.pdf)] [[video](https://www.youtube.com/watch?v=3WA0YjSqo0w&ab_channel=ShubhamChandak)] [[SigPort](https://sigport.org/documents/reducing-latency-and-bandwidth-video-streaming-using-keypoint-extraction-and-digital)]
 
 - **Overcoming high nanopore basecaller error rates for DNA storage via basecaller-decoder integration and convolutional codes.**  
   Chandak, S., Neu, J., Tatwawadi, K., Mardia, J., Lau, B., Kubit, M., Hulett, R., Griffin, P., Wootters, M., Weissman, T., & Ji, H.  
