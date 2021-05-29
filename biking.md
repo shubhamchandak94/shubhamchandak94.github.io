@@ -3,6 +3,8 @@ layout: gallery
 title: Biking
 imagefolder: /img/biking
 images:
+- name: crystal_springs_2.jpg
+  caption: Lower Crystal Springs Reservoir (from Skyline Blvd), May 2021
 - name: stevens_creek.jpeg
   caption: Stevens Creek Reservoir, May 2021
 - name: edgewood.jpeg
