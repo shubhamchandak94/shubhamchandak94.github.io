@@ -7,6 +7,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - [Conference](#conference)
 - [Patents](#patents)
 - [Preprints](#preprints)
+- [Thesis](#thesis)
 - [Talks and Panels](#talks)
 - [Posters](#posters)<a id="journal"></a>
 
@@ -125,6 +126,14 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - **Tutorial on algebraic deletion correction codes.**  
   Tatwawadi, K., & Chandak, S.  
   [[arXiv](https://arxiv.org/abs/1906.07887)] [[GitHub](https://github.com/shubhamchandak94/VT_codes)]
+
+<a id="thesis"></a>[[Back to top](#top_anchor_)]
+
+### Thesis
+- **Compression of raw genomic data.**  
+  PhD thesis, May 2021    
+  _Advisor: Prof. Tsachy Weissman, Stanford University_  
+  [[Stanford Libraries](https://purl.stanford.edu/yx427br7566)] [[pdf](reports/Compression of raw genomic data-Shubham Chandak-28May2021-augmented.pdf)]
 
 <a id="talks"></a>[[Back to top](#top_anchor_)]
 
