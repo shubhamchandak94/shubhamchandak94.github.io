@@ -123,6 +123,11 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="preprints"></a>[[Back to top](#top_anchor_)]
 
 ### Preprints
+- **NanoSpring: reference-free lossless compression of nanopore sequencing reads using an approximate assembly approach.**  
+  Meng, Q., Chandak, S., Zhu, Y., & Weissman, T.  
+  _Submitted to [Bioinformatics](https://academic.oup.com/bioinformatics)._  
+  [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.09.447198v1)] [[GitHub](https://github.com/qm2/NanoSpring)]
+
 - **Tutorial on algebraic deletion correction codes.**  
   Tatwawadi, K., & Chandak, S.  
   [[arXiv](https://arxiv.org/abs/1906.07887)] [[GitHub](https://github.com/shubhamchandak94/VT_codes)]
@@ -169,6 +174,11 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="posters"></a>[[Back to top](#top_anchor_)]
 
 ### Posters
+- **Utilizing a novel microfluidic technology to optimize enzymatic DNA synthesis for information storage applications.**  
+  _Advances in Genome Biology and Technology (AGBT) General Meeting 2020, Marco Island, FL, USA, February 23-26 2020._  
+  Presented by [Mais Jebrail](https://www.linkedin.com/in/mais-jebrail-ph-d-85a03817/).  
+  [[poster](/slides/Stanford-Miroculus-AGBT-2020-4.pdf)]
+
 - **Error correcting codes for DNA based data storage.**  
   _[ISMB/ECCB 2019](https://www.iscb.org/ismbeccb2019), Basel, July 21-25, 2019._  
   [[poster](/slides/ismb_poster_2019.pdf)]
