@@ -8,7 +8,7 @@ Here are some of the research projects I have participated in over the years, pl
 - [Error correction for DNA storage](#dna_storage)
 - [FASTQ compression](#fastq)
 - [Time series data compression](#lfzip)
-- [Multimedia compression for humans](#multmedia)
+- [Multimedia compression for humans](#multimedia)
 - <a id="dna_storage"></a>[Other projects](#other)
 <p></p>
 - **Error correction for DNA storage** _(Ph.D. research)_  
