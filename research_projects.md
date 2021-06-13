@@ -8,6 +8,7 @@ Here are some of the research projects I have participated in over the years, pl
 - [Error correction for DNA storage](#dna_storage)
 - [FASTQ compression](#fastq)
 - [Time series data compression](#lfzip)
+- [Multimedia compression for humans](#multmedia)
 - <a id="dna_storage"></a>[Other projects](#other)
 <p></p>
 - **Error correction for DNA storage** _(Ph.D. research)_  
@@ -19,21 +20,23 @@ Here are some of the research projects I have participated in over the years, pl
 
   - We studied the tradeoff between the writing and reading costs involved in DNA-based storage and propose a practical [scheme](https://github.com/shubhamchandak94/LDPC_DNA_storage) based on LDPC codes to achieve an improved tradeoff between these quantities.
   - For nanopore sequencing based DNA storage, we proposed a novel [approach](https://github.com/shubhamchandak94/nanopore_dna_storage) which overcomes the high error rates in nanopore sequencing by exploiting the soft information available in the raw signals.
-  - Check out my [talk](https://www.youtube.com/watch?v=7ki2QcSg59c) at ISMB/ECCB 2019 to get a high-level overview of this work.
+  - Check out my [talk](https://www.youtube.com/watch?v=7ki2QcSg59c) at ISMB/ECCB 2019 to get a high-level overview of this work. Also check out the [panel on DNA storage](https://www.youtube.com/watch?v=Y9yXsIxpfC8&t=18s&ab_channel=StanfordResearchTalks) I moderated at the [Stanford Compression Workshop 2021](https://compression.stanford.edu/stanford-compression-workshop-2021).
 
 <a id="fastq"></a>[[Back to top](#top_anchor_)]
-- **FASTQ compression** _(Ph.D. research)_  
+- **Genomic data compression** _(Ph.D. research)_  
   Stanford University  
 
   <img src="/img/research/fastq.png" alt="Genome sequencing" max-height="782" max-width="2736" width="100%">
 
-  **Introduction:** Next generation sequencing of genomes produces large amounts of data in the form of short reads which are stored in FASTQ files. For a typical experiment, these files can be 100s of GBs large.
+  **Introduction:** Next generation sequencing of genomes produces large amounts of data in the form of reads which are stored in FASTQ files. For a typical experiment, these files can be 100s of GBs large.
 
   - Performed theoretical analysis of the problem by computing upper bounds on the entropy of reads and developed [HARC](https://github.com/shubhamchandak94/HARC/), a tool to compress reads with and without preserving their order, achieving near-optimal compression ratios.
   - Improved upon HARC to develop [SPRING](https://github.com/shubhamchandak94/SPRING/), a practical tool to compress single and paired-end FASTQ files, supporting a variety of modes and features.
   - Work published in _Bioinformatics_.
   - Check out my [talk](https://www.youtube.com/watch?v=OCngQbmyKow) at ISMB/ECCB 2019 to get an overview of this work.
-  - Currently working to integrate parts of SPRING with [genie](https://github.com/mitogen/genie), an open-source [MPEG-G](https://mpeg-g.org/) codec.
+  - Integrated parts of SPRING with [genie](https://github.com/mitogen/genie), an open-source [MPEG-G](https://mpeg-g.org/) codec.
+  - Developed an algorithm to extend these ideas to long nanopore reads with higher error rates: [NanoSpring](https://github.com/qm2/NanoSpring). Also worked on methods to [lossily compress](https://academic.oup.com/bioinformatics/article-abstract/36/22-23/5313/6039112) raw signal files which are the precursors to nanopore FASTQ files.
+  - Check out my [PhD defense talk](https://youtu.be/u3WXn6hjHXg) focused on my work on genomic data compression. 
 
 <a id="lfzip"></a>[[Back to top](#top_anchor_)]
 
@@ -44,6 +47,21 @@ Here are some of the research projects I have participated in over the years, pl
 
   Time series data compression is increasing becoming critical with the large volumes of data produced by IoT devices and sensors. Lossy compression is often appropriate for such datasets due to the presence of noise and can lead to huge compression gains without sacrificing accuracy of downstream analysis.  
   We developed [LFZip](https://github.com/shubhamchandak94/LFZip), an error-bounded lossy compressor for multivariate floating-point time series data based on  the prediction quantization-entropy coder framework. LFZip benefits from improved prediction using linear models and neural networks and outperforms the existing state-of-the-art error-bounded lossy compressors on several time series datasets. Check out my talk at DCC 2020 [here](https://www.youtube.com/watch?v=Z-W-6FoTIv4).
+
+<a id="multimedia"></a>[[Back to top](#top_anchor_)]
+
+- **Multimedia compression for humans** _(Ph.D. research)_  
+  Stanford University  
+  
+  Multimedia compression is crucial for today's internet streaming traffic, and there is much interest in making the algorithms retain the most important aspects from the human perspective. With some great high school interns, we developed highly innovative methods to understand the limits of compression designed for humans.
+
+  <img src="/img/research/giraffe_3up.jpeg" alt="Giraffe image compression" max-height="386"  width="100%">
+
+  Studied image compression performed by humans for humans, by describing the image in terms of a text description [[website](https://compression.stanford.edu/human-compression)].
+
+  <img src="/img/research/fig_streaming_pipeline.png" alt="Keypoint based streaming" max-height="386"  width="100%">
+
+  Developed prototype video streaming pipeline that simply sends key points on the face leading to order-of-magnitude savings in bandwidth [[website](https://compression.stanford.edu/video-streaming-puppets)].
 
 <a id="other"></a>[[Back to top](#top_anchor_)]
 
