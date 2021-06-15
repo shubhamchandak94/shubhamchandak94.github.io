@@ -4,7 +4,7 @@ title: Photos
 imagefolder: /img/photos
 images:
 - name: shubham_tsachy.jpg
-  caption: "With my PhD advisor Tsachy on my graduation (photo credit: Suzanne), June 2021"
+  caption: "With my PhD advisor Prof. Tsachy Weissman on my graduation (photo credit: Suzanne Sims), June 2021"
 - name: whipsnade.jpeg
   caption: Whipsnade Zoo, UK, August 2020
 - name: rhinefalls.jpg
