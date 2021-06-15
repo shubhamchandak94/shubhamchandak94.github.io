@@ -27,7 +27,7 @@ Such projects are marked accordingly.
   [[GitHub](https://github.com/shubhamchandak94/lossy_compression_evaluation)]
 
 - **NanoSpring: reference-free lossless compression of nanopore sequencing reads**  
-  [[GitHub](https://github.com/qm2/NanoSpring)]
+  [[GitHub](https://github.com/qm2/NanoSpring)]  
   _Developed together with Qingxi Meng and Yifan Zhu_
 
 - **Genie: open source MPEG-G codec for genomic data representation**  
