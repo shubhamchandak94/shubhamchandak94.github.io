@@ -4,7 +4,7 @@ title: Photos
 imagefolder: /img/photos
 images:
 - name: shubham_tsachy.jpg
-  caption: "With my PhD advisor Prof. Tsachy Weissman on my graduation (photo credit: Suzanne Sims), June 2021"
+  caption: "With my PhD advisor Prof. Tsachy Weissman on my graduation, June 2021 (photo credit: Suzanne Sims)"
 - name: whipsnade.jpeg
   caption: Whipsnade Zoo, UK, August 2020
 - name: rhinefalls.jpg
@@ -20,13 +20,13 @@ images:
 - name: dhammavipula.jpg
   caption: Dhamma Vipula, Mumbai, 2018  
 - name: chicago.jpg
-  caption: ISMB 2018, Chicago
+  caption: "ISMB 2018, Chicago (photo credit: Mohit Goyal)"
 - name: commencement.jpg
   caption: Stanford Commencement 2018 (with Prof. Stephen Boyd)
 - name: amarkantak.jpg
   caption: Amarkantak - Kapildhara waterfall, 2017 (with my brother Siddharth)
 - name: sanfrancisco.png
-  caption: Golden Gate Bridge, San Francisco, 2016 (with Surya)
+  caption: "Golden Gate Bridge, San Francisco, 2016 (with Surya) - photo credit: Yash Malaviya"
 - name: portblair.png
   caption: Port Blair, 2016 (with my parents and brother)
 - name: convo1.jpg
