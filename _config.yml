@@ -25,7 +25,7 @@ navbar-links:
   Projects:
     - Research projects: "research_projects"
     - Course projects: "course_projects"
-  Software: "software"
+    - Software: "software"
   Gallery:
     - Photos: "photos"
     - Videos: "videos"
