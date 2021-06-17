@@ -3,6 +3,10 @@ layout: gallery
 title: Biking
 imagefolder: /img/biking
 images:
+- name: windy_hill_2.jpeg
+  caption: Bay Area from Windy Hill Summit, June 2021
+- name: windy_hill_1.jpeg
+  caption: Skyline Boulevard from Windy Hill Summit, June 2021
 - name: lands_end.jpeg
   caption: Pacific Ocean (from Lands End trail), Jun 2021
 - name: battery_spencer.jpeg
@@ -11,8 +15,6 @@ images:
   caption: Lower Crystal Springs Reservoir (from Skyline Blvd), May 2021
 - name: stevens_creek.jpeg
   caption: Stevens Creek Reservoir, May 2021
-- name: edgewood.jpeg
-  caption: Edgewood Road, May 2021
 - name: dumbarton.jpeg
   caption: Dumbarton Bridge, February 2020
 - name: sharon_park.jpeg
