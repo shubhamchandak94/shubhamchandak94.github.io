@@ -5,6 +5,8 @@ imagefolder: /img/photos
 images:
 - name: shubham_tsachy.jpg
   caption: "With my PhD advisor Prof. Tsachy Weissman on my graduation, June 2021 (photo credit: Suzanne Sims)"
+- name: golden_gate.jpeg
+  caption: Golden Gate Bridge, San Francisco (from Battery Spencer), June 2021
 - name: whipsnade.jpeg
   caption: Whipsnade Zoo, UK, August 2020
 - name: rhinefalls.jpg
