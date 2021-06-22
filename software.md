@@ -83,6 +83,10 @@ Such projects are marked accordingly.
 
 <a id="miscellaneous"></a>[[Back to top](#top_anchor_)]
 ### Miscellaneous
+
+- **Template Python Server**  
+[[GitHub](https://github.com/shubhamchandak94/template_python_server)]
+
 - **Pose animator streaming: twist on the conventional video streaming pipeline for reducing bandwidth and latency**  
   [[GitHub](https://github.com/roshanprabhakar/pose-animator-stream/)] [[Blog](https://theinformaticists.com/2020/08/25/keypoint-centric-video-processing-for-reducing-net-latency-in-video-streaming/)]  
   _Mentored as part of the [STEM to SHTEM](https://compression.stanford.edu/summer-internships-high-school-students) 2020 internship for high schoolers_
