@@ -123,6 +123,10 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="preprints"></a>[[Back to top](#top_anchor_)]
 
 ### Preprints
+- **Txt2Vid: Ultra-Low Bitrate Compression of Talking-Head Videos via Text.**  
+  Tandon, P., Chandak, S., Pataranutaporn, P., Liu, Y., Mapuranga, A., Maes, P., Weissman, T., & Sra, M.  
+  [[arXiv](https://arxiv.org/abs/2106.14014)] [[GitHub](https://github.com/tpulkit/txt2vid)]  
+
 - **NanoSpring: reference-free lossless compression of nanopore sequencing reads using an approximate assembly approach.**  
   Meng, Q., Chandak, S., Zhu, Y., & Weissman, T.  
   _Submitted to [Bioinformatics](https://academic.oup.com/bioinformatics)._  
