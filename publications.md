@@ -37,8 +37,8 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 ### Conference
 - **On Coding for an Abstracted Nanopore Channel for DNA Storage.**  
   Hulett, R., Chandak, S., & Wootters, M.   
-  _To appear at [ISIT 2021](https://2021.ieee-isit.org/)._  
-  [[arXiv](https://arxiv.org/abs/2102.01839)]
+  _2021 IEEE International Symposium on Information Theory (ISIT), 2021, pp. 2465-2470._  
+  [[IEEE](https://ieeexplore.ieee.org/document/9518236)] [[arXiv](https://arxiv.org/abs/2102.01839)]
 
 - **DZip: improved general-purpose lossless compression based on novel neural network modeling.**  
   Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.   
@@ -101,7 +101,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 ### Patents
 - **Improved quality value compression framework in aligned sequencing data based on novel contexts.**   
   Chandak S., & Cheung Y.H.  
-  [_patent application filed_]
+  [[patent application](https://patents.google.com/patent/WO2021156110A1/en)]
 
 - **System and method for effective compression, representation and decompression of diverse tabulated data.**   
   Chandak S., & Cheung Y.H.  
@@ -178,6 +178,15 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="posters"></a>[[Back to top](#top_anchor_)]
 
 ### Posters
+- **NanoSpring: reference-free lossless compression of nanopore sequencing reads using an approximate assembly approach.**  
+  _[ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021), Virtual, July 25-30, 2021._  
+  Presented by Qingxi Meng.   
+  [[poster](/slides/ISMBECCB2021_Poster_NanoSpring.pdf)]
+
+- **Impact of lossy compression of nanopore raw signal data on basecalling and consensus accuracy.**  
+  _[ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021), Virtual, July 25-30, 2021._  
+  [[poster](/slides/ismb_poster_lossy_2021.pdf)]
+
 - **Utilizing a novel microfluidic technology to optimize enzymatic DNA synthesis for information storage applications.**  
   _Advances in Genome Biology and Technology (AGBT) General Meeting 2020, Marco Island, FL, USA, February 23-26 2020._  
   Presented by [Mais Jebrail](https://www.linkedin.com/in/mais-jebrail-ph-d-85a03817/).  
