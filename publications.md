@@ -123,7 +123,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="preprints"></a>[[Back to top](#top_anchor_)]
 
 ### Preprints
-- **Magnetic DNA random access memory with nanopore readouts and exponentially-scaled combinatorial addressing**  
+- **Magnetic DNA random access memory with nanopore readouts and exponentially-scaled combinatorial addressing.**  
   Lau, B., Chandak, S., Roy, S., Tatwawadi, K., Wootters, M., Weissman, T., & Ji, H.  
   [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.15.460571v1)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage/tree/bonito)]  
 
