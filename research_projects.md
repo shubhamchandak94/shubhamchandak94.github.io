@@ -100,10 +100,10 @@ Here are some of the research projects I have participated in over the years, pl
 
   **Introduction:** Functional Electrical Stimulation (FES) is a technique that uses electric currents to activate nerves, helping restore function in people with disabilities. The challenge is to design electrodes which produce high nerve activation at desired depth while keeping surface current densities low.  
 
-  - _Concentric Electrodes_: Formulated Laplace equation for three-layer body model as integral equations using Hankel transform. The Nyström method with Gauss-Legendre quadrature was used to solve these equations. The Fourier-Bessel series was introduced to evaluate oscillatory integrals. # See the analysis [here](/reports/brookes_two_layer.pdf) and [here](/reports/brookes_three_layer.pdf).  
+  - _Concentric Electrodes_: Formulated Laplace equation for three-layer body model as integral equations using Hankel transform. The Nyström method with Gauss-Legendre quadrature was used to solve these equations. The Fourier-Bessel series was introduced to evaluate oscillatory integrals. 
   - _Non-concentric Electrodes_: For square and other electrodes, a Finite Element model was solved using EIDORS software on MATLAB.
-  - Compared various electrode configurations for safety and effectiveness using MATLAB simulations. # See the results [here](/reports/brookes_simulations.pdf).
-
+  - Compared various electrode configurations for safety and effectiveness using MATLAB simulations. 
+  
 [[Back to top](#top_anchor_)]
 
 - **Spiking Neural Networks**
