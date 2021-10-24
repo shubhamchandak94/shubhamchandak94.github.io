@@ -8,6 +8,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - [Patents](#patents)
 - [Preprints](#preprints)
 - [Thesis](#thesis)
+- [Magazine articles](#magazine)
 - [Talks and Panels](#talks)
 - [Posters](#posters)<a id="journal"></a>
 
@@ -150,6 +151,14 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
   PhD thesis, May 2021    
   _Advisor: Prof. Tsachy Weissman, Stanford University_  
   [[Stanford Libraries](https://purl.stanford.edu/yx427br7566)] [[pdf](reports/Compression of raw genomic data-Shubham Chandak-28May2021-augmented.pdf)]
+
+<a id="magazine"></a>[[Back to top](#top_anchor_)]
+
+### Magazine articles
+- **Forget JPEG, How Would a Person Compress a Picture?**  
+  Hwang, I., Chandak, S., Tatwawadi, K., & Weissman, T.  
+  _IEEE Spectrum, October 2021._  
+  [[article](https://spectrum.ieee.org/forget-jpeg-how-would-a-person-compress-a-picture)]
 
 <a id="talks"></a>[[Back to top](#top_anchor_)]
 

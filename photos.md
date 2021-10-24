@@ -3,6 +3,8 @@ layout: gallery
 title: Photos
 imagefolder: /img/photos
 images:
+- name: cactus_garden.jpeg
+  caption: Arizona Cactus Garden, Stanford, October 2021 (with my brother Siddharth)
 - name: shubham_tsachy.jpg
   caption: "With my PhD advisor Prof. Tsachy Weissman on my graduation, June 2021 (photo credit: Suzanne Sims)"
 - name: golden_gate.jpeg
