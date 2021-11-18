@@ -197,11 +197,11 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - **NanoSpring: reference-free lossless compression of nanopore sequencing reads using an approximate assembly approach.**  
   _[ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021), Virtual, July 25-30, 2021._  
   Presented by Qingxi Meng.   
-  [[poster](/slides/ISMBECCB2021_Poster_NanoSpring.pdf)]
+  [[poster](/slides/ISMBECCB2021_Poster_NanoSpring.pdf)] [[video](https://youtu.be/Y8-Up0pd9rM?list=PLmX8XnLr6zeGbiw3Tm5CWBx1_BvXSV6zV)]
 
 - **Impact of lossy compression of nanopore raw signal data on basecalling and consensus accuracy.**  
   _[ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021), Virtual, July 25-30, 2021._  
-  [[poster](/slides/ismb_poster_lossy_2021.pdf)]
+  [[poster](/slides/ismb_poster_lossy_2021.pdf)] [[video](https://youtu.be/q39GquwV--k?list=PLmX8XnLr6zeGbiw3Tm5CWBx1_BvXSV6zV)]
 
 - **Utilizing a novel microfluidic technology to optimize enzymatic DNA synthesis for information storage applications.**  
   _Advances in Genome Biology and Technology (AGBT) General Meeting 2020, Marco Island, FL, USA, February 23-26 2020._  
