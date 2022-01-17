@@ -3,8 +3,8 @@ layout: gallery
 title: Biking
 imagefolder: /img/biking
 images:
-- name: windy_hill_2.jpeg
-  caption: Bay Area from Windy Hill Summit, June 2021
+- name: bay_2.jpeg
+  caption: Bay near Dumbarton Bridge, January 2022
 - name: windy_hill_1.jpeg
   caption: Skyline Boulevard from Windy Hill Summit, June 2021
 - name: lands_end.jpeg
