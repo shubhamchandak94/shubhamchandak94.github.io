@@ -3,6 +3,8 @@ layout: gallery
 title: Photos
 imagefolder: /img/photos
 images:
+- name: windyhills.jpeg
+  caption: "View of Bay Area from Windy Hills Summit, January 2022 (photo credit: Siddharth Chandak)"
 - name: cactus_garden.jpeg
   caption: Arizona Cactus Garden, Stanford, October 2021 (with my brother Siddharth)
 - name: shubham_tsachy.jpg
