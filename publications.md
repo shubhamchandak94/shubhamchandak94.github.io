@@ -100,6 +100,10 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="patents"></a>[[Back to top](#top_anchor_)]
 
 ### Patents
+- **Genomic information compression by configurable machine learning-based arithmetic coding.**  
+  Chandak S., & Cheung Y.H.  
+  [[patent application](https://patents.google.com/patent/WO2022008311A1/en)]
+
 - **Improved quality value compression framework in aligned sequencing data based on novel contexts.**   
   Chandak S., & Cheung Y.H.  
   [[patent application](https://patents.google.com/patent/WO2021156110A1/en)]
