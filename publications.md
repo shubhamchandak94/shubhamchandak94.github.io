@@ -13,6 +13,11 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - [Posters](#posters)<a id="journal"></a>
 
 ### Journal
+- **Expanding the Molecular Alphabet of DNA-Based Data Storage Systems with Neural Network Nanopore Readout Processing.**  
+  Tabatabaei, S. K., Pham, B., Pan, C., Liu, J., Chandak, S., Shorkey, S., Hernandez, A., Aksimentiev, A., Chen, M., Schroeder, C., & Milenkovic, O.  
+  _Nano Letters 2022 22 (5), 1905-1914_  
+  [[Nano Letters]](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c04203) [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.27.462049v1)] [[press](https://beckman.illinois.edu/about/news/article/2022/03/02/expanded-alphabet-precise-sequencing-make-dna-the-next-data-storage-solution)]
+
 - **Impact of lossy compression of nanopore raw signal data on basecalling and consensus accuracy.**  
   Chandak, S., Tatwawadi, K., Sridhar, S. & Weissman, T.  
   _Bioinformatics, Volume 36, Issue 22-23, 1 December 2020, Pages 5313–5321_    
@@ -128,10 +133,6 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="preprints"></a>[[Back to top](#top_anchor_)]
 
 ### Preprints
-- **Expanding the Molecular Alphabet of DNA-Based Data Storage Systems with Neural Network Nanopore Readout Processing.**  
-  Tabatabaei, S. K., Pham, B., Pan, C., Liu, J., Chandak, S., Shorkey, S., Hernandez, A., Aksimentiev, A., Chen, M., Schroeder, C., & Milenkovic, O.  
-  [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.27.462049v1)]
-
 - **Magnetic DNA random access memory with nanopore readouts and exponentially-scaled combinatorial addressing.**  
   Lau, B., Chandak, S., Roy, S., Tatwawadi, K., Wootters, M., Weissman, T., & Ji, H.  
   [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.15.460571v1)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage/tree/bonito)]  
