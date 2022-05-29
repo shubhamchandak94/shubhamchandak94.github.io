@@ -18,7 +18,7 @@ title: Videos
     }
 </style>
 
-Here is a playlist with some videos of my talks/lectures and some other videos created by me.  
+Here is a playlist with some videos of my talks/lectures and some other videos created by me (click the button on the top left to see all the videos).  
 
 <div class="youtube-videos">
 <iframe width="560" height="315" src="https://www.youtube.com/embed?listType=playlist&list=PL6Rs8t6pKeRszVXCOxv2ibE9c2QayxxRZ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

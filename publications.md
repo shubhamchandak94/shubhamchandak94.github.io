@@ -168,6 +168,10 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="talks"></a>[[Back to top](#top_anchor_)]
 
 ### Talks and Panels
+- **Efficient storage of and in DNA: genomic data compression & DNA based storage.** _(Invited)_   
+  _Biochemical Engineering and Biotechnology Department Seminar, IIT Delhi, April 28, 2022._  
+  [[slides](/slides/iitd_talk.pdf)]
+
 - **Compression of raw genomic data.**  
   _PhD defense, April 19, 2021._  
   [[slides](/slides/phd_defense.pdf)] [[video](https://youtu.be/u3WXn6hjHXg)]
