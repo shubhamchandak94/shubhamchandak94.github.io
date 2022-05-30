@@ -3,6 +3,8 @@ layout: gallery
 title: Biking
 imagefolder: /img/biking
 images:
+- name: merced.jpeg
+  caption: Lake Merced, San Francisco, May 2022
 - name: bay_2.jpeg
   caption: Bay near Dumbarton Bridge, January 2022
 - name: windy_hill_1.jpeg

@@ -3,6 +3,10 @@ layout: gallery
 title: Photos
 imagefolder: /img/photos
 images:
+- name: lands_end.jpeg
+  caption: Lands End, San Francisco, May 2022 (with Siddharth)
+- name: india_gate.jpeg
+  caption: India Gate, New Delhi, April 2022 (with Abhishek, Siddharth and Sameer)
 - name: windyhills.jpeg
   caption: "View of Bay Area from Windy Hills Summit, January 2022 (photo credit: Siddharth Chandak)"
 - name: cactus_garden.jpeg
