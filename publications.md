@@ -143,7 +143,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 
 - **NanoSpring: reference-free lossless compression of nanopore sequencing reads using an approximate assembly approach.**  
   Meng, Q., Chandak, S., Zhu, Y., & Weissman, T.  
-  [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.09.447198v1)] [[GitHub](https://github.com/qm2/NanoSpring)]
+  [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.09.447198v2)] [[GitHub](https://github.com/qm2/NanoSpring)]
 
 - **Tutorial on algebraic deletion correction codes.**  
   Tatwawadi, K., & Chandak, S.  
