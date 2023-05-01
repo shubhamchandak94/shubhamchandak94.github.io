@@ -6,10 +6,9 @@ layout: page
 ---
 <img alt="Shubham photo" src="/img/shubham_photo_9_16_20_cropped.jpeg" style="width: 200px; height: 190px; hspace=" />
 
-Hi! Welcome to my site. I am Shubham Chandak (शुभम चांडक), an applied scientist at Amazon working in the AWS S3 team. I completed my PhD in Electrical Engineering at Stanford in 2021 (and MS in 2018), advised by Prof. [Tsachy Weissman](http://web.stanford.edu/~tsachy/). Before that I completed my B.Tech. in Electrical Engineering at [IIT Bombay](http://www.iitb.ac.in/) (India) in 2016. I am interested in data compression, bioinformatics, DNA storage, information theory and machine learning.
+Hi! Welcome to my site. I am Shubham Chandak (शुभम चांडक), a senior applied scientist at Amazon working in the AWS S3 team. I completed my PhD in Electrical Engineering at Stanford in 2021 (and MS in 2018), advised by Prof. [Tsachy Weissman](http://web.stanford.edu/~tsachy/). Before that I completed my B.Tech. in Electrical Engineering at [IIT Bombay](http://www.iitb.ac.in/) (India) in 2016. I am interested in data compression, bioinformatics, DNA storage, information theory and machine learning.
 
-**I am co-instructing a class on data compression (EE 274) at Stanford in Fall 2022. Check out more about this
-on the [course website here](https://stanforddatacompressionclass.github.io/Fall22/).**
+I co-instructed a class on data compression (EE 274) at Stanford in Fall 2022. Check out the [course website here](https://stanforddatacompressionclass.github.io/Fall22/) and the lecture videos on [YouTube](https://www.youtube.com/playlist?list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl).
 
 <a href="https://www.dhamma.org/"><img alt="Dhamma Cakka" src="/img/dhammacakka.gif" style="width: 40px; height: 60px;" /></a>
 

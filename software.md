@@ -36,6 +36,10 @@ Such projects are marked accordingly.
 
 <a id="general-data-compression"></a>[[Back to top](#top_anchor_)]
 ### General-purpose data compression
+- **Stanford Compression Library**  
+  [[GitHub](https://github.com/kedartatwawadi/stanford_compression_library)]  
+  _In collaboration with Kedar Tatwawadi and Pulkit Tandon_
+
 - **LFZip: Lossy compressor for multivariate floating-point time series**  
   [[GitHub](https://github.com/shubhamchandak94/LFZip/)]  
   _Work done in collaboration with Siemens_

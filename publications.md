@@ -13,10 +13,24 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - [Posters](#posters)<a id="journal"></a>
 
 ### Journal
+- **Optimal design of electrodes for functional electrical stimulation applications to single layer isotropic tissues.**  
+  Cassar, M.G., Sebu, C., Pidcock, M., Chandak, S., & Andrews, B.  
+  _COMPEL - The international journal for computation and mathematics in electrical and electronic engineering (2023)_  
+  [[COMPEL](https://www.emerald.com/insight/content/doi/10.1108/COMPEL-08-2022-0293/full/html)]
+- **Reference-free lossless compression of nanopore sequencing reads using an approximate assembly approach.**  
+  Meng, Q., Chandak, S., Zhu, Y., & Weissman, T.  
+  _Sci Rep 2023 13, 2082_  
+  [[Scientific Reports](https://www.nature.com/articles/s41598-023-29267-8)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.09.447198v2)] [[GitHub](https://github.com/qm2/NanoSpring)]
+
+- **Txt2Vid: Ultra-Low Bitrate Compression of Talking-Head Videos via Text.**  
+  Tandon, P., Chandak, S., Pataranutaporn, P., Liu, Y., Mapuranga, A., Maes, P., Weissman, T., & Sra, M.  
+  _IEEE Journal on Selected Areas in Communications, vol. 41, no. 1, pp. 107-118, Jan. 2023_  
+  [[IEEE](https://ieeexplore.ieee.org/document/9953071)] [[arXiv](https://arxiv.org/abs/2106.14014)] [[GitHub](https://github.com/tpulkit/txt2vid)]  
+
 - **Expanding the Molecular Alphabet of DNA-Based Data Storage Systems with Neural Network Nanopore Readout Processing.**  
   Tabatabaei, S. K., Pham, B., Pan, C., Liu, J., Chandak, S., Shorkey, S., Hernandez, A., Aksimentiev, A., Chen, M., Schroeder, C., & Milenkovic, O.  
   _Nano Letters 2022 22 (5), 1905-1914_  
-  [[Nano Letters]](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c04203) [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.27.462049v1)] [[press](https://beckman.illinois.edu/about/news/article/2022/03/02/expanded-alphabet-precise-sequencing-make-dna-the-next-data-storage-solution)]
+  [[Nano Letters](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c04203)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.27.462049v1)] [[press](https://beckman.illinois.edu/about/news/article/2022/03/02/expanded-alphabet-precise-sequencing-make-dna-the-next-data-storage-solution)]
 
 - **Impact of lossy compression of nanopore raw signal data on basecalling and consensus accuracy.**  
   Chandak, S., Tatwawadi, K., Sridhar, S. & Weissman, T.  
@@ -105,6 +119,10 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="patents"></a>[[Back to top](#top_anchor_)]
 
 ### Patents
+- **Systems and Methods for Performing Video Communication Using Text-Based Compression.**  
+  Tandon, P., Chandak, S., Pataranutaporn, P., Liu, Y., Mapuranga, A., Maes, P., Weissman, T., & Sra, M.  
+  [[patent application](https://patents.google.com/patent/US20220417291A1/en)]
+
 - **Genomic information compression by configurable machine learning-based arithmetic coding.**  
   Chandak S., & Cheung Y.H.  
   [[patent application](https://patents.google.com/patent/WO2022008311A1/en)]
@@ -115,7 +133,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 
 - **System and method for effective compression, representation and decompression of diverse tabulated data.**   
   Chandak S., & Cheung Y.H.  
-  [[patent application](https://patents.google.com/patent/WO2021074440A1/en)]
+  [[patent application](https://patents.google.com/patent/US20220368347A1/en)]
 
 - **Systems and Methods for Compressing Genetic Sequencing Data and Uses Thereof.**  
   Chandak, S., Tatwawadi, K., Ochoa, I., Hernaez, M., & Weissman, T.  
@@ -123,7 +141,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 
 - **Embedded Deep Compression for Time Series Data.**  
   Wen, C., Wang, L., Aparicio, J., Chandak, S., Tatwawadi, K., & Weissman, T.  
-  [[patent application](https://patents.google.com/patent/WO2020197526A1/en)]   
+  [[patent application](https://patents.google.com/patent/US20220190842A1/en)]   
   Awarded **Siemens Inventors of the year 2020 [[press](https://new.siemens.com/global/en/company/innovation/inventors/data-compression-for-industries.html)]**
 
 - **Detuning for a resonant wireless power transfer system including cryptography.**  
@@ -136,14 +154,6 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - **Magnetic DNA random access memory with nanopore readouts and exponentially-scaled combinatorial addressing.**  
   Lau, B., Chandak, S., Roy, S., Tatwawadi, K., Wootters, M., Weissman, T., & Ji, H.  
   [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.15.460571v1)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage/tree/bonito)]  
-
-- **Txt2Vid: Ultra-Low Bitrate Compression of Talking-Head Videos via Text.**  
-  Tandon, P., Chandak, S., Pataranutaporn, P., Liu, Y., Mapuranga, A., Maes, P., Weissman, T., & Sra, M.  
-  [[arXiv](https://arxiv.org/abs/2106.14014)] [[GitHub](https://github.com/tpulkit/txt2vid)]  
-
-- **NanoSpring: reference-free lossless compression of nanopore sequencing reads using an approximate assembly approach.**  
-  Meng, Q., Chandak, S., Zhu, Y., & Weissman, T.  
-  [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.09.447198v2)] [[GitHub](https://github.com/qm2/NanoSpring)]
 
 - **Tutorial on algebraic deletion correction codes.**  
   Tatwawadi, K., & Chandak, S.  
