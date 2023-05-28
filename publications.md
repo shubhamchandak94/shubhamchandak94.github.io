@@ -13,10 +13,16 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - [Posters](#posters)<a id="journal"></a>
 
 ### Journal
+- **Magnetic DNA random access memory with nanopore readouts and exponentially-scaled combinatorial addressing.**  
+  Lau, B., Chandak, S., Roy, S., Tatwawadi, K., Wootters, M., Weissman, T., & Ji, H.  
+  _Sci Rep 2023 13, 8514_  
+  [[Scientific Reports](https://www.nature.com/articles/s41598-023-29575-z)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.15.460571v1)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage/tree/bonito)]  
+
 - **Optimal design of electrodes for functional electrical stimulation applications to single layer isotropic tissues.**  
   Cassar, M.G., Sebu, C., Pidcock, M., Chandak, S., & Andrews, B.  
-  _COMPEL - The international journal for computation and mathematics in electrical and electronic engineering (2023)_  
+  _COMPEL - The international journal for computation and mathematics in electrical and electronic engineering, Vol. 42 No. 3, pp. 695-707 (2023)_  
   [[COMPEL](https://www.emerald.com/insight/content/doi/10.1108/COMPEL-08-2022-0293/full/html)]
+
 - **Reference-free lossless compression of nanopore sequencing reads using an approximate assembly approach.**  
   Meng, Q., Chandak, S., Zhu, Y., & Weissman, T.  
   _Sci Rep 2023 13, 2082_  
@@ -151,9 +157,9 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="preprints"></a>[[Back to top](#top_anchor_)]
 
 ### Preprints
-- **Magnetic DNA random access memory with nanopore readouts and exponentially-scaled combinatorial addressing.**  
-  Lau, B., Chandak, S., Roy, S., Tatwawadi, K., Wootters, M., Weissman, T., & Ji, H.  
-  [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.15.460571v1)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage/tree/bonito)]  
+- **Genie: The First Open-Source ISO/IEC Encoder for Genomic Data.**  
+  Müntefering, F., Adhisantoso, Y., Chandak, S., Ostermann, J., Hernaez, M., & Voges, J.  
+  [[Research Square](https://www.researchsquare.com/article/rs-2628031/v1)] [[GitHub](https://github.com/MueFab/genie)]
 
 - **Tutorial on algebraic deletion correction codes.**  
   Tatwawadi, K., & Chandak, S.  

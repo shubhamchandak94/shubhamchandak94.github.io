@@ -32,7 +32,7 @@ Such projects are marked accordingly.
 
 - **Genie: open source MPEG-G codec for genomic data representation**  
   [[GitHub](https://github.com/mitogen/genie/)]  
-  _Work done as part of the [MITOGEN team](https://mitogen.github.io/)_
+  _Work done as part of the Genie team_
 
 <a id="general-data-compression"></a>[[Back to top](#top_anchor_)]
 ### General-purpose data compression
