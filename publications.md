@@ -61,6 +61,11 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="conference"></a>[[Back to top](#top_anchor_)]
 
 ### Conference
+- **Optimal Design of Concentric Electrodes for Functional Electrical Stimulation in multilayered isotropic tissues.**  
+  Cassar, M.G., Sebu, C., Pidcock, M., Andrews, B., & Chandak, S.  
+  _2023 3rd International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME), Tenerife, Canary Islands, Spain, 2023, pp. 1-11._  
+  [[IEEE](https://ieeexplore.ieee.org/abstract/document/10253348)]
+
 - **On Coding for an Abstracted Nanopore Channel for DNA Storage.**  
   Hulett, R., Chandak, S., & Wootters, M.   
   _2021 IEEE International Symposium on Information Theory (ISIT), 2021, pp. 2465-2470._  
@@ -184,6 +189,11 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="talks"></a>[[Back to top](#top_anchor_)]
 
 ### Talks and Panels
+- **Hands-on Workshop on Learned Image Compression.** _(Invited)_  
+  _Joint with Pulkit Tandon._  
+  _[CVIP 2023](https://iitjammu.ac.in/cvip2023/), IIT Jammu (remote), November 5, 2023._  
+  [[slides](/slides/CVIP23_learntImage.pdf)]  
+
 - **Efficient storage of and in DNA: genomic data compression & DNA based storage.** _(Invited)_   
   _Biochemical Engineering and Biotechnology Department Seminar, IIT Delhi, April 28, 2022._  
   [[slides](/slides/iitd_talk.pdf)]
