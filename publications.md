@@ -13,6 +13,12 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - [Posters](#posters)<a id="journal"></a>
 
 ### Journal
+
+- **Genie: The First Open-Source ISO/IEC Encoder for Genomic Data.**  
+  Müntefering, F., Adhisantoso, Y., Chandak, S., Ostermann, J., Hernaez, M., & Voges, J.  
+  _To appear in Communications Biology_   
+  [[Research Square](https://www.researchsquare.com/article/rs-2628031/v1)] [[GitHub](https://github.com/MueFab/genie)]
+
 - **Magnetic DNA random access memory with nanopore readouts and exponentially-scaled combinatorial addressing.**  
   Lau, B., Chandak, S., Roy, S., Tatwawadi, K., Wootters, M., Weissman, T., & Ji, H.  
   _Sci Rep 2023 13, 8514_  
@@ -130,6 +136,14 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="patents"></a>[[Back to top](#top_anchor_)]
 
 ### Patents
+- **Embedded compression for product lifecycle data management.**  
+  Wen, C., Wang, L., Solowjow, E., Chandak, S., Tandon, P., & Weissman, T.  
+  [[patent application](https://patents.google.com/patent/WO2024043932A1/en)]
+
+- **DNA-Based Data Storage Systems.**  
+  Milenkovic, O., Schroeder, C., Tabatabaei, S. K., Aksimentiev, A., Hernandez, A., Pan, C., Liu, J., Chandak, S., Pham, B., Chen, M., & Shorkey, S.  
+  [[patent application](https://patents.google.com/patent/US20230420045A1/en)]
+
 - **Systems and Methods for Performing Video Communication Using Text-Based Compression.**  
   Tandon, P., Chandak, S., Pataranutaporn, P., Liu, Y., Mapuranga, A., Maes, P., Weissman, T., & Sra, M.  
   [[patent application](https://patents.google.com/patent/US20220417291A1/en)]
@@ -144,7 +158,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 
 - **System and method for effective compression, representation and decompression of diverse tabulated data.**   
   Chandak S., & Cheung Y.H.  
-  [[patent application](https://patents.google.com/patent/US20220368347A1/en)]
+  [[patent](https://patents.google.com/patent/US11916576B2/en)]
 
 - **Systems and Methods for Compressing Genetic Sequencing Data and Uses Thereof.**  
   Chandak, S., Tatwawadi, K., Ochoa, I., Hernaez, M., & Weissman, T.  
@@ -162,9 +176,6 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="preprints"></a>[[Back to top](#top_anchor_)]
 
 ### Preprints
-- **Genie: The First Open-Source ISO/IEC Encoder for Genomic Data.**  
-  Müntefering, F., Adhisantoso, Y., Chandak, S., Ostermann, J., Hernaez, M., & Voges, J.  
-  [[Research Square](https://www.researchsquare.com/article/rs-2628031/v1)] [[GitHub](https://github.com/MueFab/genie)]
 
 - **Tutorial on algebraic deletion correction codes.**  
   Tatwawadi, K., & Chandak, S.  
