@@ -136,6 +136,10 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 <a id="patents"></a>[[Back to top](#top_anchor_)]
 
 ### Patents
+- **Multi-domain configurable data compressor/de-compressor.**  
+  Pavlichin, D., Chandak, S., Weissman, T., & Burgess, C.  
+  [[patent](https://patents.google.com/patent/US11966597B1/en)]
+
 - **Embedded compression for product lifecycle data management.**  
   Wen, C., Wang, L., Solowjow, E., Chandak, S., Tandon, P., & Weissman, T.  
   [[patent application](https://patents.google.com/patent/WO2024043932A1/en)]
