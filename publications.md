@@ -16,8 +16,8 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 
 - **Genie: The First Open-Source ISO/IEC Encoder for Genomic Data.**  
   Müntefering, F., Adhisantoso, Y., Chandak, S., Ostermann, J., Hernaez, M., & Voges, J.  
-  _To appear in Communications Biology_   
-  [[Research Square](https://www.researchsquare.com/article/rs-2628031/v1)] [[GitHub](https://github.com/MueFab/genie)]
+  _Commun Biol 7, 553 (2024)_   
+  [[Communications Biology](https://www.nature.com/articles/s42003-024-06249-8)] [[Research Square](https://www.researchsquare.com/article/rs-2628031/v1)] [[GitHub](https://github.com/MueFab/genie)]
 
 - **Magnetic DNA random access memory with nanopore readouts and exponentially-scaled combinatorial addressing.**  
   Lau, B., Chandak, S., Roy, S., Tatwawadi, K., Wootters, M., Weissman, T., & Ji, H.  
