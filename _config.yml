@@ -44,15 +44,15 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#0098db"
-navbar-text-col: "#FFFFFF"
-navbar-children-col: "#0098db"
-page-col: "#f8f6ea"
-link-col: "#8c1515"
-hover-col: "#2e2d29"
-footer-col: "#0098db"
-footer-text-col: "#FFFFFF"
-footer-link-col: "#2e2d29"
+navbar-col: "#099d02"
+navbar-text-col: "#fbfcf6"
+navbar-children-col: "#099d02"
+page-col: "#fbfcf6"
+link-col: "#099d02"
+hover-col: "#1d3853"
+footer-col: "#099d02"
+footer-text-col: "#fbfcf6"
+footer-link-col: "#1d3853"
 # also added navbar-inverse to nav.html to make hamburger button white on dark background
 
 # navbar-col: "#dad7cb"
