@@ -30,6 +30,7 @@ navbar-links:
     - Photos: "photos"
     - Videos: "videos"
     - Biking: "biking"
+    - Trees: "trees"
   Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -47,7 +48,7 @@ navbar-links:
 navbar-col: "#099d02"
 navbar-text-col: "#fbfcf6"
 navbar-children-col: "#099d02"
-page-col: "#F5F5F5"
+page-col: "#f7f0f0"
 link-col: "#099d02"
 hover-col: "#1d3853"
 footer-col: "#099d02"
