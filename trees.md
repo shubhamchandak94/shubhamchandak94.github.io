@@ -3,6 +3,10 @@ layout: gallery
 title: Trees
 imagefolder: /img/trees
 images:
+- name: great_banyan_2.jpeg
+  caption: The Great Banyan, Kolkata, May 2025
+- name: great_banyan_1.jpeg
+  caption: The Great Banyan, Kolkata, May 2025
 - name: experium.jpg
   caption: Experium, Hyderabad, March 2025
 - name: mango_hyderabad_botanical.jpg
