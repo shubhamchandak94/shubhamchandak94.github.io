@@ -3,51 +3,50 @@ layout: page
 title: Publications
 ---
 _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1u0f5QAAAAJ).**_
-- [Journal](#journal)
-- [Conference](#conference)
+- **Papers**
+  - [Machine Learning](#machine-learning)
+  - [Genomic Data Compression](#genomic-data-compression)
+  - [DNA Storage](#dna-storage)
+  - [Data Compression](#data-compression)
+  - [Miscellaneous](#miscellaneous)
 - [Patents](#patents)
-- [Preprints](#preprints)
 - [Thesis](#thesis)
 - [Magazine articles](#magazine)
 - [Talks and Panels](#talks)
-- [Posters](#posters)<a id="journal"></a>
+- [Posters](#posters)<a id="machine-learning"></a>
 
-### Journal
+### Machine Learning
 
+- **The Amazon Nova Family of Models: Technical Report and Model Card.**  
+  Amazon AGI, 2024  
+  [[Amazon Science](https://www.amazon.science/publications/the-amazon-nova-family-of-models-technical-report-and-model-card)]  
+
+<a id="genomic-data-compression"></a>[[Back to top](#top_anchor_)]
+
+### Genomic Data Compression
 - **Genie: The First Open-Source ISO/IEC Encoder for Genomic Data.**  
   Müntefering, F., Adhisantoso, Y., Chandak, S., Ostermann, J., Hernaez, M., & Voges, J.  
   _Commun Biol 7, 553 (2024)_   
   [[Communications Biology](https://www.nature.com/articles/s42003-024-06249-8)] [[Research Square](https://www.researchsquare.com/article/rs-2628031/v1)] [[GitHub](https://github.com/MueFab/genie)]
-
-- **Magnetic DNA random access memory with nanopore readouts and exponentially-scaled combinatorial addressing.**  
-  Lau, B., Chandak, S., Roy, S., Tatwawadi, K., Wootters, M., Weissman, T., & Ji, H.  
-  _Sci Rep 2023 13, 8514_  
-  [[Scientific Reports](https://www.nature.com/articles/s41598-023-29575-z)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.15.460571v1)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage/tree/bonito)]  
-
-- **Optimal design of electrodes for functional electrical stimulation applications to single layer isotropic tissues.**  
-  Cassar, M.G., Sebu, C., Pidcock, M., Chandak, S., & Andrews, B.  
-  _COMPEL - The international journal for computation and mathematics in electrical and electronic engineering, Vol. 42 No. 3, pp. 695-707 (2023)_  
-  [[COMPEL](https://www.emerald.com/insight/content/doi/10.1108/COMPEL-08-2022-0293/full/html)]
 
 - **Reference-free lossless compression of nanopore sequencing reads using an approximate assembly approach.**  
   Meng, Q., Chandak, S., Zhu, Y., & Weissman, T.  
   _Sci Rep 2023 13, 2082_  
   [[Scientific Reports](https://www.nature.com/articles/s41598-023-29267-8)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.09.447198v2)] [[GitHub](https://github.com/qm2/NanoSpring)]
 
-- **Txt2Vid: Ultra-Low Bitrate Compression of Talking-Head Videos via Text.**  
-  Tandon, P., Chandak, S., Pataranutaporn, P., Liu, Y., Mapuranga, A., Maes, P., Weissman, T., & Sra, M.  
-  _IEEE Journal on Selected Areas in Communications, vol. 41, no. 1, pp. 107-118, Jan. 2023_  
-  [[IEEE](https://ieeexplore.ieee.org/document/9953071)] [[arXiv](https://arxiv.org/abs/2106.14014)] [[GitHub](https://github.com/tpulkit/txt2vid)]  
-
-- **Expanding the Molecular Alphabet of DNA-Based Data Storage Systems with Neural Network Nanopore Readout Processing.**  
-  Tabatabaei, S. K., Pham, B., Pan, C., Liu, J., Chandak, S., Shorkey, S., Hernandez, A., Aksimentiev, A., Chen, M., Schroeder, C., & Milenkovic, O.  
-  _Nano Letters 2022 22 (5), 1905-1914_  
-  [[Nano Letters](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c04203)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.27.462049v1)] [[press](https://beckman.illinois.edu/about/news/article/2022/03/02/expanded-alphabet-precise-sequencing-make-dna-the-next-data-storage-solution)]
-
 - **Impact of lossy compression of nanopore raw signal data on basecalling and consensus accuracy.**  
   Chandak, S., Tatwawadi, K., Sridhar, S. & Weissman, T.  
   _Bioinformatics, Volume 36, Issue 22-23, 1 December 2020, Pages 5313–5321_    
   [[Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/36/22-23/5313/6039112)] [[biorXiv](https://www.biorxiv.org/content/10.1101/2020.04.19.049262v3)] [[GitHub](https://github.com/shubhamchandak94/lossy_compression_evaluation)]
+
+- **Genie: an MPEG-G Conformant Software to Compress Genomic Data.**  
+  Bliss B., Allen J., Baheti S., Bockol M., Chandak S.,
+  Delgado J., Fostier J., Gelpi J., Hart S., Arrazola M., Hudson M.,
+  Kalmbach M., Klee E., Mainzer L., Müntefering F.,
+  Naro D., Ochoa-Alvarez I., Ostermann J., Paridaens T., Ross C.,
+  Voges J., Wieben E., Yang M., Weissman T. & Wiepert M.  
+  _International Conference for High Performance Computing, Networking, Storage and Analysis (SC19), p. (poster), Denver, CO (US), November 2019._  
+  [[SC19](https://sc19.supercomputing.org/proceedings/tech_poster/tech_poster_pages/rpost161.html)] [[poster](https://sc19.supercomputing.org/proceedings/tech_poster/poster_files/rpost161s2-file2.pdf)] [[summary](https://sc19.supercomputing.org/proceedings/tech_poster/poster_files/rpost161s2-file3.pdf)] [[GitHub](https://github.com/mitogen/genie)]
 
 - **SPRING: a next-generation compressor for FASTQ data.**  
   Chandak, S., Tatwawadi, K., Ochoa, I., Hernaez, M., & Weissman, T.  
@@ -59,23 +58,46 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
   _Bioinformatics, Volume 34, Issue 4, 15 February 2018, Pages 558–567_  
   [[Bioinformatics](https://academic.oup.com/bioinformatics/article/34/4/558/4386919?guestAccessKey=92f2ced6-72aa-4792-aef7-d42e2ea293ad)] [[GitHub](https://github.com/shubhamchandak94/HARC/)]
 
-- **An Actively Detuned Wireless Power Receiver With Public Key Cryptographic Authentication and Dynamic Power Allocation.**  
-  Desai, N.V., Juvekar, C., Chandak, S., & Chandrakasan, A.P.  
-  _IEEE Journal of Solid-State Circuits, vol. 53, no. 1, pp. 236-246, Jan. 2018._  
-  [[IEEE](https://ieeexplore.ieee.org/abstract/document/8027197)] [[press](http://news.mit.edu/2017/secure-wireless-chargers-0209)]
+<a id="dna-storage"></a>[[Back to top](#top_anchor_)]
 
-<a id="conference"></a>[[Back to top](#top_anchor_)]
+### DNA Storage
+- **Magnetic DNA random access memory with nanopore readouts and exponentially-scaled combinatorial addressing.**  
+  Lau, B., Chandak, S., Roy, S., Tatwawadi, K., Wootters, M., Weissman, T., & Ji, H.  
+  _Sci Rep 2023 13, 8514_  
+  [[Scientific Reports](https://www.nature.com/articles/s41598-023-29575-z)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.15.460571v1)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage/tree/bonito)]  
 
-### Conference
-- **Optimal Design of Concentric Electrodes for Functional Electrical Stimulation in multilayered isotropic tissues.**  
-  Cassar, M.G., Sebu, C., Pidcock, M., Andrews, B., & Chandak, S.  
-  _2023 3rd International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME), Tenerife, Canary Islands, Spain, 2023, pp. 1-11._  
-  [[IEEE](https://ieeexplore.ieee.org/abstract/document/10253348)]
+- **Expanding the Molecular Alphabet of DNA-Based Data Storage Systems with Neural Network Nanopore Readout Processing.**  
+  Tabatabaei, S. K., Pham, B., Pan, C., Liu, J., Chandak, S., Shorkey, S., Hernandez, A., Aksimentiev, A., Chen, M., Schroeder, C., & Milenkovic, O.  
+  _Nano Letters 2022 22 (5), 1905-1914_  
+  [[Nano Letters](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c04203)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.27.462049v1)] [[press](https://beckman.illinois.edu/about/news/article/2022/03/02/expanded-alphabet-precise-sequencing-make-dna-the-next-data-storage-solution)]
 
 - **On Coding for an Abstracted Nanopore Channel for DNA Storage.**  
   Hulett, R., Chandak, S., & Wootters, M.   
   _2021 IEEE International Symposium on Information Theory (ISIT), 2021, pp. 2465-2470._  
   [[IEEE](https://ieeexplore.ieee.org/document/9518236)] [[arXiv](https://arxiv.org/abs/2102.01839)]
+
+- **Overcoming high nanopore basecaller error rates for DNA storage via basecaller-decoder integration and convolutional codes.**  
+  Chandak, S., Neu, J., Tatwawadi, K., Mardia, J., Lau, B., Kubit, M., Hulett, R., Griffin, P., Wootters, M., Weissman, T., & Ji, H.  
+  _ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020, pp. 8822-8826._  
+  [[IEEE](https://ieeexplore.ieee.org/document/9053441)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/2019.12.20.871939v2)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage)] [[slides](/slides/ICASSP2020_slides.pdf)] [[video](https://youtu.be/m-rtO6S_XGU)]
+
+- **Improved read/write cost tradeoff in DNA-based data storage using LDPC codes.**  
+  Chandak, S., Tatwawadi, K., Lau, B., Mardia, J., Kubit, M., Neu, J., Griffin, P., Wootters, M., Weissman, T., & Ji, H.  
+  _2019 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton), Monticello, IL, USA, 2019, pp. 147-156._  
+  [[IEEE](https://ieeexplore.ieee.org/document/8919890)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/770032v2)] [[GitHub](https://github.com/shubhamchandak94/LDPC_dna_storage)] [[slides](/slides/allerton_slides_ldpc.pdf)]
+
+- **Tutorial on algebraic deletion correction codes.**  
+  Tatwawadi, K., & Chandak, S., 2019  
+  [[arXiv](https://arxiv.org/abs/1906.07887)] [[GitHub](https://github.com/shubhamchandak94/VT_codes)]
+
+<a id="data-compression"></a>[[Back to top](#top_anchor_)]
+
+### Data Compression
+
+- **Txt2Vid: Ultra-Low Bitrate Compression of Talking-Head Videos via Text.**  
+  Tandon, P., Chandak, S., Pataranutaporn, P., Liu, Y., Mapuranga, A., Maes, P., Weissman, T., & Sra, M.  
+  _IEEE Journal on Selected Areas in Communications, vol. 41, no. 1, pp. 107-118, Jan. 2023_  
+  [[IEEE](https://ieeexplore.ieee.org/document/9953071)] [[arXiv](https://arxiv.org/abs/2106.14014)] [[GitHub](https://github.com/tpulkit/txt2vid)]  
 
 - **DZip: improved general-purpose lossless compression based on novel neural network modeling.**  
   Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.   
@@ -87,36 +109,16 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
   _2021 Data Compression Conference (DCC), Snowbird, UT, USA, 2021, pp. 360-360._  
   [[IEEE](https://ieeexplore.ieee.org/document/9418752)] [[arXiv](https://arxiv.org/abs/2011.03800)] [[GitHub](https://github.com/shubhamchandak94/digital-puppetry/)] [[website](https://compression.stanford.edu/video-streaming-puppets)] [[slides](https://sigport.org/sites/default/files/docs/Digital%20puppetry%20DCC_1.pdf)] [[video](https://www.youtube.com/watch?v=3WA0YjSqo0w&ab_channel=ShubhamChandak)] [[SigPort](https://sigport.org/documents/reducing-latency-and-bandwidth-video-streaming-using-keypoint-extraction-and-digital)]
 
-- **Overcoming high nanopore basecaller error rates for DNA storage via basecaller-decoder integration and convolutional codes.**  
-  Chandak, S., Neu, J., Tatwawadi, K., Mardia, J., Lau, B., Kubit, M., Hulett, R., Griffin, P., Wootters, M., Weissman, T., & Ji, H.  
-  _ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020, pp. 8822-8826._  
-  [[IEEE](https://ieeexplore.ieee.org/document/9053441)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/2019.12.20.871939v2)] [[GitHub](https://github.com/shubhamchandak94/nanopore_dna_storage)] [[slides](/slides/ICASSP2020_slides.pdf)] [[video](https://youtu.be/m-rtO6S_XGU)]
-
 - **LFZip: Lossy compression of multivariate floating-point time series data via improved prediction.**  
   Chandak S., Tatwawadi K., Wen C., Wang L., Aparicio J., & Weissman T.  
   _2020 Data Compression Conference (DCC), Snowbird, UT, USA, 2020, pp. 342-351._  
   [[IEEE](https://ieeexplore.ieee.org/document/9105816)] [[arXiv](https://arxiv.org/abs/1911.00208)] [[GitHub](https://github.com/shubhamchandak94/LFZip)] [[slides](/slides/LFZip_DCC2020_slides.pdf)] [[video](https://youtu.be/Z-W-6FoTIv4)]  
   Awarded **Siemens Inventors of the year 2020 [[press](https://new.siemens.com/global/en/company/innovation/inventors/data-compression-for-industries.html)]**
 
-
 - **DZip: improved general-purpose lossless compression based on novel neural network modeling.**  
   Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.   
   _2020 Data Compression Conference (DCC), Snowbird, UT, USA, 2020, pp. 372-372._  
   [[IEEE](https://ieeexplore.ieee.org/document/9105846)] [[arXiv](https://arxiv.org/abs/1911.03572)] [[GitHub](https://github.com/mohit1997/DZip)] [[poster](/slides/DZip_DCC_Poster_2020.pdf)]
-
-- **Genie: an MPEG-G Conformant Software to Compress Genomic Data.**  
-  Bliss B., Allen J., Baheti S., Bockol M., Chandak S.,
-  Delgado J., Fostier J., Gelpi J., Hart S., Arrazola M., Hudson M.,
-  Kalmbach M., Klee E., Mainzer L., Müntefering F.,
-  Naro D., Ochoa-Alvarez I., Ostermann J., Paridaens T., Ross C.,
-  Voges J., Wieben E., Yang M., Weissman T. & Wiepert M.  
-  _International Conference for High Performance Computing, Networking, Storage and Analysis (SC19), p. (poster), Denver, CO (US), November 2019._  
-  [[SC19](https://sc19.supercomputing.org/proceedings/tech_poster/tech_poster_pages/rpost161.html)] [[poster](https://sc19.supercomputing.org/proceedings/tech_poster/poster_files/rpost161s2-file2.pdf)] [[summary](https://sc19.supercomputing.org/proceedings/tech_poster/poster_files/rpost161s2-file3.pdf)] [[GitHub](https://github.com/mitogen/genie)]
-
-- **Improved read/write cost tradeoff in DNA-based data storage using LDPC codes.**  
-  Chandak, S., Tatwawadi, K., Lau, B., Mardia, J., Kubit, M., Neu, J., Griffin, P., Wootters, M., Weissman, T., & Ji, H.  
-  _2019 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton), Monticello, IL, USA, 2019, pp. 147-156._  
-  [[IEEE](https://ieeexplore.ieee.org/document/8919890)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/770032v2)] [[GitHub](https://github.com/shubhamchandak94/LDPC_dna_storage)] [[slides](/slides/allerton_slides_ldpc.pdf)]
 
 - **Towards improved lossy image compression: Human image reconstruction with public-domain images.**  
   Bhown, A., Mukherjee, S., Yang, S., Chandak, S., Fischer-Hwang, I., Tatwawadi, K., Fan, J., & Weissman, T.  
@@ -127,6 +129,25 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
   Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.  
   _2019 Data Compression Conference (DCC), Snowbird, UT, USA, 2019, pp. 575-575._  
   [[IEEE](https://ieeexplore.ieee.org/abstract/document/8712659)] [[arXiv](https://arxiv.org/abs/1811.08162)] [[poster](/slides/DeepZip_poster.pdf)] [[GitHub](https://github.com/mohit1997/DeepZip)]
+
+<a id="miscellaneous"></a>[[Back to top](#top_anchor_)]
+
+### Miscellaneous
+
+- **Optimal design of electrodes for functional electrical stimulation applications to single layer isotropic tissues.**  
+  Cassar, M.G., Sebu, C., Pidcock, M., Chandak, S., & Andrews, B.  
+  _COMPEL - The international journal for computation and mathematics in electrical and electronic engineering, Vol. 42 No. 3, pp. 695-707 (2023)_  
+  [[COMPEL](https://www.emerald.com/insight/content/doi/10.1108/COMPEL-08-2022-0293/full/html)]
+
+- **Optimal Design of Concentric Electrodes for Functional Electrical Stimulation in multilayered isotropic tissues.**  
+  Cassar, M.G., Sebu, C., Pidcock, M., Andrews, B., & Chandak, S.  
+  _2023 3rd International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME), Tenerife, Canary Islands, Spain, 2023, pp. 1-11._  
+  [[IEEE](https://ieeexplore.ieee.org/abstract/document/10253348)]
+
+- **An Actively Detuned Wireless Power Receiver With Public Key Cryptographic Authentication and Dynamic Power Allocation.**  
+  Desai, N.V., Juvekar, C., Chandak, S., & Chandrakasan, A.P.  
+  _IEEE Journal of Solid-State Circuits, vol. 53, no. 1, pp. 236-246, Jan. 2018._  
+  [[IEEE](https://ieeexplore.ieee.org/abstract/document/8027197)] [[press](http://news.mit.edu/2017/secure-wireless-chargers-0209)]
 
 - **An Actively Detuned Wireless Power Receiver With Public Key Cryptographic Authentication and Dynamic Power Allocation.**  
   Desai, N.V., Juvekar, C., Chandak, S., & Chandrakasan, A.P.  
@@ -156,9 +177,9 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
   Chandak S., & Cheung Y.H.  
   [[patent application](https://patents.google.com/patent/WO2022008311A1/en)]
 
-- **Improved quality value compression framework in aligned sequencing data based on novel contexts.**   
+- **Quality value compression framework in aligned sequencing data based on novel contexts.**   
   Chandak S., & Cheung Y.H.  
-  [[patent application](https://patents.google.com/patent/WO2021156110A1/en)]
+  [[patent](https://patents.google.com/patent/US12125562B2/en)]
 
 - **System and method for effective compression, representation and decompression of diverse tabulated data.**   
   Chandak S., & Cheung Y.H.  
@@ -176,14 +197,6 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - **Detuning for a resonant wireless power transfer system including cryptography.**  
   Chandrakasan, A.P., Desai, N.V., Juvekar, C., & Chandak, S.  
   [[patent](https://patents.google.com/patent/US20190245385A1/en)] [[tech brief](http://tlo.mit.edu/technologies/cryptography-system-wireless-charging-modules)]
-
-<a id="preprints"></a>[[Back to top](#top_anchor_)]
-
-### Preprints
-
-- **Tutorial on algebraic deletion correction codes.**  
-  Tatwawadi, K., & Chandak, S.  
-  [[arXiv](https://arxiv.org/abs/1906.07887)] [[GitHub](https://github.com/shubhamchandak94/VT_codes)]
 
 <a id="thesis"></a>[[Back to top](#top_anchor_)]
 
