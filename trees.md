@@ -3,6 +3,8 @@ layout: gallery
 title: Trees
 imagefolder: /img/trees
 images:
+- name: cypress.jpeg
+  caption: Monterey Cypress Trees, Crocker Grove, Monterey, June 2025
 - name: great_banyan_2.jpeg
   caption: The Great Banyan, Kolkata, May 2025
 - name: great_banyan_1.jpeg

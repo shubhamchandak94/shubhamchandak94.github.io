@@ -19,7 +19,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 
 - **The Amazon Nova Family of Models: Technical Report and Model Card.**  
   Amazon AGI, 2024  
-  [[Amazon Science](https://www.amazon.science/publications/the-amazon-nova-family-of-models-technical-report-and-model-card)] [[Nova Premier Addendum](https://www.amazon.science/publications/amazon-nova-premier-technical-report-and-model-card)] 
+  [[Amazon Science](https://www.amazon.science/publications/the-amazon-nova-family-of-models-technical-report-and-model-card)] [[Nova Premier Addendum](https://www.amazon.science/publications/amazon-nova-premier-technical-report-and-model-card)] [[arXiv](https://arxiv.org/abs/2506.12103)]  
 
 <a id="genomic-data-compression"></a>[[Back to top](#top_anchor_)]
 

@@ -3,6 +3,12 @@ layout: gallery
 title: Biking
 imagefolder: /img/biking
 images:
+- name: hyderabad_cycling_track.jpeg
+  caption: Hyderabad Cycling Track, November 2024
+- name: osman_sagar.jpeg
+  caption: Osman Sagar, Hyderabad, October 2024
+- name: byrne_preserve.jpeg
+  caption: Byrne Preserve, Los Altos Hills, April 2024
 - name: merced.jpeg
   caption: Lake Merced, San Francisco, May 2022
 - name: bay_2.jpeg
