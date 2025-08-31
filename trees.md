@@ -3,6 +3,8 @@ layout: gallery
 title: Trees
 imagefolder: /img/trees
 images:
+- name: baobab.jpg
+  caption: Hatiyan Jhad Baobab Tree, Hyderabad, August 2025
 - name: cypress.jpeg
   caption: Monterey Cypress Trees, Crocker Grove, Monterey, June 2025
 - name: great_banyan_2.jpeg
