@@ -20,7 +20,7 @@ Here are some of the research projects I have participated in over the years, pl
 
   - We studied the tradeoff between the writing and reading costs involved in DNA-based storage and propose a practical [scheme](https://github.com/shubhamchandak94/LDPC_DNA_storage) based on LDPC codes to achieve an improved tradeoff between these quantities.
   - For nanopore sequencing based DNA storage, we proposed a novel [approach](https://github.com/shubhamchandak94/nanopore_dna_storage) which overcomes the high error rates in nanopore sequencing by exploiting the soft information available in the raw signals.
-  - Check out my [talk](https://www.youtube.com/watch?v=7ki2QcSg59c) at ISMB/ECCB 2019 to get a high-level overview of this work. Also check out the [panel on DNA storage](https://www.youtube.com/watch?v=Y9yXsIxpfC8&t=18s&ab_channel=StanfordResearchTalks) I moderated at the [Stanford Compression Workshop 2021](https://compression.stanford.edu/stanford-compression-workshop-2021).
+  - Check out my [talk](https://www.youtube.com/watch?v=7ki2QcSg59c) at ISMB/ECCB 2019 to get a high-level overview of this work. Also check out the [panel on DNA storage](https://www.youtube.com/watch?v=Y9yXsIxpfC8&t=18s&ab_channel=StanfordResearchTalks) I moderated at the [Stanford Compression Workshop 2021](https://compression.stanford.edu/events/conference-symposium/stanford-compression-workshop-2021).
 
 <a id="fastq"></a>[[Back to top](#top_anchor_)]
 - **Genomic data compression** _(Ph.D. research)_  
@@ -57,11 +57,11 @@ Here are some of the research projects I have participated in over the years, pl
 
   <img src="/img/research/giraffe_3up.jpeg" alt="Giraffe image compression" max-height="386"  width="100%">
 
-  Studied image compression performed by humans for humans, by describing the image in terms of a text description [[website](https://compression.stanford.edu/human-compression)].
+  Studied image compression performed by humans for humans, by describing the image in terms of a text description [[website](https://compression.stanford.edu/projects/human-compression)].
 
   <img src="/img/research/fig_streaming_pipeline.png" alt="Keypoint based streaming" max-height="386"  width="100%">
 
-  Developed prototype video streaming pipeline that simply sends key points on the face leading to order-of-magnitude savings in bandwidth [[website](https://compression.stanford.edu/video-streaming-puppets)].
+  Developed prototype video streaming pipeline that simply sends key points on the face leading to order-of-magnitude savings in bandwidth [[website](https://compression.stanford.edu/projects/video-streaming-puppets)].
 
 <a id="other"></a>[[Back to top](#top_anchor_)]
 

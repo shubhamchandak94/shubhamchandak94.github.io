@@ -93,7 +93,7 @@ Such projects are marked accordingly.
 
 - **Pose animator streaming: twist on the conventional video streaming pipeline for reducing bandwidth and latency**  
   [[GitHub](https://github.com/roshanprabhakar/pose-animator-stream/)] [[Blog](https://theinformaticists.com/2020/08/25/keypoint-centric-video-processing-for-reducing-net-latency-in-video-streaming/)]  
-  _Mentored as part of the [STEM to SHTEM](https://compression.stanford.edu/summer-internships-high-school-students) 2020 internship for high schoolers_
+  _Mentored as part of the [STEM to SHTEM](https://compression.stanford.edu/outreach/shtem-summer-internships-high-schoolers-and-community-college-students) 2020 internship for high schoolers_
 
 
 

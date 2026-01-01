@@ -3,6 +3,8 @@ layout: gallery
 title: Biking
 imagefolder: /img/biking
 images:
+- name: van-vihar.jpeg
+  caption: Van Vihar, Bhopal, October 2025
 - name: hyderabad_cycling_track.jpeg
   caption: Hyderabad Cycling Track, November 2024
 - name: osman_sagar.jpeg

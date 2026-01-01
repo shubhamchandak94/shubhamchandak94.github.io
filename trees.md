@@ -3,6 +3,10 @@ layout: gallery
 title: Trees
 imagefolder: /img/trees
 images:
+- name: baobab-vadodara.jpeg
+  caption: Baobab Tree, ~950 years old, Alakhdhani Temple, Ganpatpura (near Vadodara), December 2025
+- name: banyan-vadodara.jpeg
+  caption: Banyan Tree, ~400 years old, GSFC Vadodara, December 2025
 - name: baobab.jpg
   caption: Hatiyan Jhad Baobab Tree, Hyderabad, August 2025
 - name: cypress.jpeg

@@ -107,7 +107,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - **Reducing latency and bandwidth for video streaming using keypoint extraction and digital puppetry.**  
   Prabhakar, R., Chandak, S., Chiu, C., Liang, R., Nguyen, H., Tatwawadi, K., & Weissman, T.  
   _2021 Data Compression Conference (DCC), Snowbird, UT, USA, 2021, pp. 360-360._  
-  [[IEEE](https://ieeexplore.ieee.org/document/9418752)] [[arXiv](https://arxiv.org/abs/2011.03800)] [[GitHub](https://github.com/shubhamchandak94/digital-puppetry/)] [[website](https://compression.stanford.edu/video-streaming-puppets)] [[slides](https://sigport.org/sites/default/files/docs/Digital%20puppetry%20DCC_1.pdf)] [[video](https://www.youtube.com/watch?v=3WA0YjSqo0w&ab_channel=ShubhamChandak)] [[SigPort](https://sigport.org/documents/reducing-latency-and-bandwidth-video-streaming-using-keypoint-extraction-and-digital)]
+  [[IEEE](https://ieeexplore.ieee.org/document/9418752)] [[arXiv](https://arxiv.org/abs/2011.03800)] [[GitHub](https://github.com/shubhamchandak94/digital-puppetry/)] [[website](https://compression.stanford.edu/projects/video-streaming-puppets)] [[slides](https://sigport.org/sites/default/files/docs/Digital%20puppetry%20DCC_1.pdf)] [[video](https://www.youtube.com/watch?v=3WA0YjSqo0w&ab_channel=ShubhamChandak)] [[SigPort](https://sigport.org/documents/reducing-latency-and-bandwidth-video-streaming-using-keypoint-extraction-and-digital)]
 
 - **LFZip: Lossy compression of multivariate floating-point time series data via improved prediction.**  
   Chandak S., Tatwawadi K., Wen C., Wang L., Aparicio J., & Weissman T.  
@@ -123,7 +123,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 - **Towards improved lossy image compression: Human image reconstruction with public-domain images.**  
   Bhown, A., Mukherjee, S., Yang, S., Chandak, S., Fischer-Hwang, I., Tatwawadi, K., Fan, J., & Weissman, T.  
   _2019 Data Compression Conference (DCC), Snowbird, UT, USA, 2019, pp. 558-558._  
-  [[IEEE](https://ieeexplore.ieee.org/abstract/document/8712697)] [[arXiv](https://arxiv.org/abs/1810.11137)] [[website](https://compression.stanford.edu/human-compression)] [[poster](/slides/haac_poster.pdf)] [[press](https://news.stanford.edu/2019/03/25/humans-compress-images-better-algorithms/)]
+  [[IEEE](https://ieeexplore.ieee.org/abstract/document/8712697)] [[arXiv](https://arxiv.org/abs/1810.11137)] [[website](https://compression.stanford.edu/projects/human-compression)] [[poster](/slides/haac_poster.pdf)] [[press](https://news.stanford.edu/2019/03/25/humans-compress-images-better-algorithms/)]
 
 - **DeepZip: Lossless Data Compression using Recurrent Neural Networks.**  
   Goyal, M., Tatwawadi, K., Chandak, S., & Ochoa, I.  
@@ -231,7 +231,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
   [[slides](/slides/phd_defense.pdf)] [[video](https://youtu.be/u3WXn6hjHXg)]
 
 - **Moderator for panel on DNA-based data storage.**  
-  _[Stanford Compression Workshop 2021](https://compression.stanford.edu/stanford-compression-workshop-2021), February 26, 2021._  
+  _[Stanford Compression Workshop 2021](https://compression.stanford.edu/events/conference-symposium/stanford-compression-workshop-2021), February 26, 2021._  
   [[video](https://www.youtube.com/watch?v=Y9yXsIxpfC8&t=18s&ab_channel=StanfordResearchTalks)]
 
 - **Genomic data compression.** _(Invited)_   
@@ -247,7 +247,7 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
   [[slides](/slides/ismb_slides_spring.pdf)] [[video](https://www.youtube.com/watch?v=OCngQbmyKow)]
 
 - **SPRING: A next-generation compressor for FASTQ data.** _(Invited)_  
-  _[Stanford Compression Workshop 2019](https://compression.stanford.edu/2019-stanford-compression-workshop), Stanford, February 15, 2019._  
+  _[Stanford Compression Workshop 2019](https://compression.stanford.edu/events/conference-symposium/stanford-compression-forum-2019), Stanford, February 15, 2019._  
   [[slides](/slides/scw2019_spring.pdf)] [[video](https://www.youtube.com/watch?v=b_9HJ5zrmUg)]
 
 - **SPRING: A practical compressor for short-read FASTQ data.** _(Invited)_  
