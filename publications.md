@@ -17,6 +17,11 @@ _**Google Scholar page [HERE](https://scholar.google.com/citations?hl=en&user=t1
 
 ### Machine Learning
 
+- **An Information-Theoretic Perspective on LLM Tokenizers.**  
+  Erdogan, M., Gorle A., Chandak, S., & Weissman, T.  
+  _2026 IEEE International Symposium on Information Theory (ISIT), Guangzhou, China, 2026, pp. 1-6._  
+  [[IEEE](https://ieeexplore.ieee.org/abstract/document/11653797)] [[arXiv](https://arxiv.org/abs/2601.09039)]
+
 - **The Amazon Nova Family of Models: Technical Report and Model Card.**  
   Amazon AGI, 2024  
   [[Amazon Science](https://www.amazon.science/publications/the-amazon-nova-family-of-models-technical-report-and-model-card)] [[Nova Premier Addendum](https://www.amazon.science/publications/amazon-nova-premier-technical-report-and-model-card)] [[arXiv](https://arxiv.org/abs/2506.12103)]  
